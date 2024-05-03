@@ -1,0 +1,763 @@
+,CPSC_Case_Number,Treatment_Date,Age_Category,Alcohol,Drug,Incident_Location,Disposition_Description,Injury_Diagnosis,Injured_Body_Part,Sex_of_Patient,Race_of_Patient,Injury_Diagnosis2,Injured_Body_Part2,SeverityCategory,SeverityScore,year
+249872,190962400,9/14/2019,<15,0,0,Home,Treated/Examined and Released,Laceration,Toe,Male,Other,Laceration,,Minor,2.02,2019
+175635,190738522,7/16/2019,<15,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Finger,Female,White,"Contusions, Abrasions",,Minimal,1.36,2019
+256620,191010927,7/23/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Hemorrhage,Face,Male,White,Hemorrhage,,Moderate,3.21,2019
+325921,191223004,12/3/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2019
+231085,190923669,6/29/2019,<15,0,0,Home,Treated and Transferred,"Burns, Thermal",Lower Arm,Female,Not Stated in ED Record,"Burns, Thermal",,Severe,3.63,2019
+102122,190510723,3/1/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Laceration,Lower Arm,Male,Not Stated in ED Record,Laceration,All Parts Body,Minor,2.22,2019
+104419,190515649,5/3/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Lower Arm,Male,White,Fracture,,Moderate,2.88,2019
+125910,190558265,5/7/2019,<15,0,0,Home,Treated/Examined and Released,Laceration,Head,Male,Asian,Laceration,,Moderate,2.52,2019
+301620,191130679,10/29/2019,<15,0,0,School/Daycare,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,,Minor,2.22,2019
+329117,191229690,11/16/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Foot,Female,White,Fracture,,Moderate,2.88,2019
+144814,190633216,6/1/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Lower Leg,Female,Not Stated in ED Record,Fracture,,Moderate,2.88,2019
+126763,190560221,5/20/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Lower Arm,Female,White,Fracture,,Moderate,2.88,2019
+315372,191201454,11/22/2019,<15,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Face,Female,Black/African American,"Contusions, Abrasions",,Minor,1.56,2019
+300792,191129103,11/12/2019,<15,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Face,Female,White,"Contusions, Abrasions",,Minor,1.56,2019
+232524,190926726,8/30/2019,<15,0,0,School/Daycare,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,Other,"Strain, Sprain",,Minor,1.99,2019
+348679,200114997,12/17/2019,<15,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,White,"Strain, Sprain",,Minor,1.99,2019
+176108,190739490,6/28/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Foreign Body,Face,Female,Black/African American,Foreign Body,Head,Minor,2.22,2019
+103875,190514427,4/27/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2019
+308760,191145509,7/29/2019,<15,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Hand,Male,White,"Contusions, Abrasions",,Minor,1.56,2019
+116794,190540071,5/11/2019,<15,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,White,Laceration,,Minor,2.22,2019
+293525,191114020,11/4/2019,<15,0,0,Home,Treated/Examined and Released,Dislocation,Knee,Male,White,Dislocation,,Moderate,2.55,2019
+153125,190651107,2/11/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Female,White,Internal Organ Injury,Head,Severe,3.51,2019
+189440,190806857,7/17/2019,<15,0,0,Home,Treated/Examined and Released,Foreign Body,Ear,Female,Not Stated in ED Record,Foreign Body,Neck,Minor,2.12,2019
+9913,190135059,1/19/2019,<15,0,0,Home,Treated/Examined and Released,Poisoning,All Parts Body,Male,Not Stated in ED Record,Poisoning,,Minor,2.48,2019
+345144,200103844,12/19/2019,<15,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Lower Arm,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2019
+169040,190724978,6/30/2019,<15,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Eyeball,Male,White,"Contusions, Abrasions",,Minor,1.76,2019
+312923,191154239,11/17/2019,<15,0,0,Home,Treated/Examined and Released,Other/Not Stated,Not Stated/Unk,Male,Black/African American,Other/Not Stated,,Minimal,0.5,2019
+129053,190600090,5/30/2019,<15,0,0,School/Daycare,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,1.0,2019
+71919,190412387,3/17/2019,<15,0,0,Place of Recreation or Sports,Treated and Admitted/Hospitalized,Fracture,Ankle,Female,White,Fracture,,Severe,3.88,2019
+21800,190206962,2/2/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Upper Leg,Male,White,Fracture,,Moderate,2.88,2019
+268538,191035166,10/7/2019,<15,0,0,Home,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Critical,4.51,2019
+4627,190121562,1/3/2019,<15,0,0,Other Public Property,Treated/Examined and Released,"Dermatitis, Conjunctivitis",Face,Male,Black/African American,"Dermatitis, Conjunctivitis",,Minor,1.56,2019
+206646,190841849,7/20/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Lower Leg,Female,White,Fracture,Wrist,Moderate,2.88,2019
+299536,191126483,11/8/2019,<15,0,0,School/Daycare,Treated/Examined and Released,Internal Organ Injury,Head,Female,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2019
+177650,190742193,6/4/2019,<15,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,Black/African American,Laceration,,Minor,2.02,2019
+135194,190613100,5/4/2019,<15,0,0,Home,Treated/Examined and Released,Concussions,Head,Female,White,Concussions,,Moderate,3.18,2019
+262500,191022917,10/6/2019,<15,0,0,Other Public Property,Treated/Examined and Released,Internal Organ Injury,Head,Male,Black/African American,Internal Organ Injury,,Severe,3.51,2019
+313138,191154548,11/20/2019,<15,0,0,School/Daycare,Treated/Examined and Released,Concussions,Head,Male,Not Stated in ED Record,Concussions,,Moderate,3.18,2019
+295090,191117457,11/5/2019,<15,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,Native Hawaiian/Pacific Islander,"Strain, Sprain",,Minor,1.89,2019
+245229,190953201,9/22/2019,<15,0,0,Not Recorded,Treated and Transferred,Fracture,Face,Female,Not Stated in ED Record,Fracture,,Severe,3.63,2019
+203163,190835462,8/13/2019,<15,0,0,Place of Recreation or Sports,Treated and Transferred,Fracture,Elbow,Female,Black/African American,Fracture,,Severe,3.63,2019
+6289,190126285,1/1/2019,<15,0,0,Home,Treated/Examined and Released,Laceration,Mouth,Female,White,Laceration,,Minor,2.22,2019
+330883,191233137,12/15/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Concussions,Head,Female,White,Concussions,,Moderate,3.18,2019
+247880,190958943,9/16/2019,<15,0,0,School/Daycare,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Critical,4.51,2019
+117220,190540990,5/11/2019,<15,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Finger,Male,Other,"Contusions, Abrasions",,Minimal,1.36,2019
+151594,190647603,6/5/2019,<15,0,0,Not Recorded,Treated/Examined and Released,"Dermatitis, Conjunctivitis",Lower Trunk,Female,Not Stated in ED Record,"Dermatitis, Conjunctivitis",,Minor,1.66,2019
+177230,190741539,5/23/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Dental Injury,Mouth,Male,White,Dental Injury,,Minor,1.89,2019
+185936,190758302,7/28/2019,<15,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,Asian,Laceration,,Minor,2.22,2019
+288688,191104565,10/31/2019,<15,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Finger,Female,White,Fracture,,Severe,3.68,2019
+71510,190411751,4/3/2019,<15,0,0,School/Daycare,Treated/Examined and Released,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2019
+34729,190237764,2/16/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Dental Injury,Mouth,Male,White,Dental Injury,,Minor,1.89,2019
+225118,190911659,8/12/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2019
+329089,191229647,12/5/2019,<15,0,0,Home,Treated/Examined and Released,Fracture,Finger,Female,Not Stated in ED Record,Fracture,,Moderate,2.68,2019
+215277,190859726,8/8/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Shoulder,Male,Not Stated in ED Record,Other/Not Stated,Face,Minimal,1.0,2019
+31482,190230514,2/14/2019,<15,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Face,Male,White,"Contusions, Abrasions",,Minor,1.56,2019
+1366,190110692,1/4/2019,<15,0,0,School/Daycare,Treated/Examined and Released,Laceration,Head,Male,White,Laceration,,Moderate,2.52,2019
+35238,190239423,2/17/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Neck,Male,White,"Strain, Sprain",Ear,Minor,2.09,2019
+92843,190454133,4/15/2019,<15,0,0,School/Daycare,Treated/Examined and Released,Laceration,Hand,Female,Not Stated in ED Record,Laceration,,Minor,2.22,2019
+285424,191069783,10/24/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Laceration,Head,Female,White,Laceration,Finger,Moderate,2.52,2019
+244413,190951732,9/21/2019,<15,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,White,Laceration,,Minor,2.22,2019
+39447,190249447,2/17/2019,<15,0,0,School/Daycare,Treated and Admitted/Hospitalized,Fracture,Lower Arm,Male,White,Fracture,,Severe,3.88,2019
+173417,190733871,7/10/2019,<15,0,0,Other Public Property,Treated/Examined and Released,"Strain, Sprain",Neck,Female,White,"Strain, Sprain",Lower Arm,Minor,2.09,2019
+51274,190324126,3/11/2019,<15,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Wrist,Female,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2019
+66209,190400833,3/16/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Concussions,Head,Male,Not Stated in ED Record,Concussions,,Moderate,3.18,2019
+252006,191002353,9/27/2019,<15,0,0,Home,Treated/Examined and Released,Other/Not Stated,Lower Arm,Female,White,Other/Not Stated,,Minimal,0.9,2019
+246444,190955947,9/14/2019,<15,0,0,School/Daycare,Treated/Examined and Released,"Strain, Sprain",Knee,Female,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2019
+169867,190726706,7/3/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Hematoma,Upper Leg,Male,White,Hematoma,,Minor,1.89,2019
+295450,191118420,11/4/2019,<15,0,0,Home,Treated/Examined and Released,Laceration,Mouth,Female,Other,Laceration,,Minor,2.22,2019
+168566,190724137,6/30/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Finger,Male,White,Fracture,,Moderate,2.68,2019
+317713,191206316,11/2/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2019
+200338,190830003,7/24/2019,<15,0,0,Home,Treated/Examined and Released,Poisoning,All Parts Body,Female,Not Stated in ED Record,Poisoning,,Minor,2.48,2019
+216660,190862111,8/17/2019,<15,0,0,Home,Treated/Examined and Released,Laceration,Mouth,Male,White,Laceration,,Minor,2.22,2019
+100032,190506497,4/4/2019,<15,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Wrist,Female,Black/African American,Other/Not Stated,,Minimal,0.9,2019
+325449,191222251,12/8/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Knee,Male,Black/African American,Other/Not Stated,,Minimal,0.9,2019
+135268,190613294,5/29/2019,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Internal Organ Injury,Head,Male,Black/African American,Internal Organ Injury,,Severe,3.51,2019
+85704,190440239,4/15/2019,<15,0,0,Not Recorded,Left Without Being Seen,Laceration,Mouth,Male,White,Laceration,,Minor,1.97,2019
+336539,191244749,12/21/2019,15-24,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Head,Female,White,"Contusions, Abrasions",,Minor,1.86,2019
+160573,190706223,6/26/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Foot,Male,White,Fracture,,Moderate,2.88,2019
+94099,190456779,4/23/2019,15-24,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,Not Stated in ED Record,Laceration,,Minor,2.02,2019
+210200,190849023,8/20/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,,Minor,2.02,2019
+49060,190318739,3/5/2019,15-24,0,1,Home,Treated/Examined and Released,Foreign Body,Finger,Male,Not Stated in ED Record,Foreign Body,,Minor,2.02,2019
+51916,190325613,3/9/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Hand,Male,White,Other/Not Stated,,Minimal,0.9,2019
+299231,191125632,11/7/2019,15-24,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Shoulder,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.66,2019
+1365,190110690,1/3/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Knee,Male,Black/African American,Other/Not Stated,,Minimal,0.9,2019
+90885,190450334,3/22/2019,15-24,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Knee,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2019
+290673,191108569,10/29/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Lower Arm,Male,Asian,Fracture,,Moderate,2.88,2019
+176414,190739829,7/18/2019,15-24,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Wrist,Female,Black/African American,"Strain, Sprain",,Minor,1.89,2019
+276166,191050250,9/29/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Contusions, Abrasions",Knee,Female,White,"Contusions, Abrasions",Lower Trunk,Minor,1.56,2019
+258037,191014213,9/22/2019,15-24,0,0,Other Public Property,Treated and Admitted/Hospitalized,Fracture,Face,Female,White,Fracture,,Severe,3.88,2019
+256522,191010728,9/28/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,Black/African American,Other/Not Stated,,Minimal,1.0,2019
+40035,190250830,2/18/2019,15-24,0,0,School/Daycare,Treated/Examined and Released,"Contusions, Abrasions",Face,Male,White,"Contusions, Abrasions",,Minor,1.56,2019
+313006,191154389,11/11/2019,15-24,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Eyeball,Male,Black/African American,"Contusions, Abrasions",,Minor,1.76,2019
+200091,190829659,6/25/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2019
+80646,190430001,4/10/2019,15-24,0,0,Other Public Property,Treated/Examined and Released,Other/Not Stated,Not Stated/Unk,Male,White,Other/Not Stated,Upper Leg,Minimal,0.5,2019
+281802,191062318,9/15/2019,15-24,0,0,Home,Treated/Examined and Released,Fracture,Hand,Male,White,Fracture,Head,Moderate,2.88,2019
+315026,191200536,10/20/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,White,"Strain, Sprain",,Minor,1.89,2019
+270196,191038456,10/11/2019,15-24,0,0,Street or Highway,Left Without Being Seen,Dental Injury,Mouth,Male,White,Dental Injury,,Minor,1.64,2019
+135539,190613894,5/26/2019,15-24,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Head,Female,White,"Contusions, Abrasions",,Minor,1.86,2019
+171135,190729135,6/28/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,Native Hawaiian/Pacific Islander,Other/Not Stated,,Minimal,1.0,2019
+77940,190424664,4/9/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Hand,Female,White,Fracture,,Moderate,2.88,2019
+234667,190931397,9/10/2019,15-24,0,0,School/Daycare,Treated/Examined and Released,Fracture,Face,Male,White,Fracture,,Moderate,2.88,2019
+274542,191046971,10/13/2019,15-24,0,0,Home,Treated/Examined and Released,Other/Not Stated,Head,Male,White,Other/Not Stated,,Minimal,1.2,2019
+245435,190953585,9/18/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Shoulder,Female,White,"Strain, Sprain",Wrist,Minor,1.99,2019
+256245,191010249,9/29/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Female,Black/African American,"Strain, Sprain",,Minor,1.99,2019
+112521,190531695,5/10/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,Fracture,Wrist,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2019
+133870,190610204,6/1/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Wrist,Male,Black/African American,"Strain, Sprain",,Minor,1.89,2019
+194143,190817132,7/28/2019,15-24,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,Not Stated in ED Record,Laceration,,Minor,2.22,2019
+346088,200106192,12/27/2019,15-24,0,0,School/Daycare,Treated/Examined and Released,Concussions,Head,Male,Not Stated in ED Record,Concussions,,Moderate,3.18,2019
+232567,190926794,9/7/2019,15-24,0,0,School/Daycare,Treated/Examined and Released,Other/Not Stated,Hand,Female,Black/African American,Other/Not Stated,Ear,Minimal,0.9,2019
+8821,190132140,1/10/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2019
+33304,190234493,2/17/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Finger,Male,Black/African American,Other/Not Stated,,Minimal,0.7,2019
+121295,190548916,5/19/2019,15-24,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Upper Trunk,Female,Black/African American,"Contusions, Abrasions",,Minor,1.66,2019
+279579,191057444,10/23/2019,15-24,0,1,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Face,Male,White,"Contusions, Abrasions",,Minor,1.56,2019
+253706,191005357,9/11/2019,15-24,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Wrist,Female,White,"Strain, Sprain",,Minor,1.89,2019
+19257,190201054,1/30/2019,15-24,0,0,School/Daycare,Treated/Examined and Released,Laceration,Hand,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2019
+334416,191240415,9/25/2019,15-24,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Ankle,Female,White,"Strain, Sprain",,Minor,1.89,2019
+345232,200103936,12/31/2019,15-24,0,0,Home,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,White,Other/Not Stated,,Minimal,1.0,2019
+103132,190513195,5/4/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Contusions, Abrasions",Finger,Male,White,"Contusions, Abrasions",,Minimal,1.36,2019
+301520,191130448,11/5/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,White,"Strain, Sprain",,Minor,1.89,2019
+200136,190829726,6/26/2019,15-24,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Ankle,Female,Black/African American,"Strain, Sprain",,Minor,1.89,2019
+71984,190412627,4/3/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Knee,Female,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2019
+156886,190658644,6/20/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,Foreign Body,Ear,Female,Not Stated in ED Record,Foreign Body,,Minor,2.12,2019
+123954,190554141,5/26/2019,15-24,0,0,Other Public Property,Treated/Examined and Released,Other/Not Stated,All Parts Body,Female,Not Stated in ED Record,Other/Not Stated,,Minimal,0.5,2019
+328637,191228937,10/26/2019,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Hand,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2019
+234814,190931783,9/12/2019,15-24,0,0,School/Daycare,Treated/Examined and Released,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2019
+298755,191124844,10/10/2019,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Ankle,Male,White,Other/Not Stated,Face,Minimal,0.9,2019
+271569,191041481,10/16/2019,25-44,0,0,Home,Treated/Examined and Released,Laceration,Hand,Female,Black/African American,Laceration,,Minor,2.22,2019
+157193,190659216,6/26/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,White,Other/Not Stated,,Minimal,1.0,2019
+6715,190127009,1/14/2019,25-44,0,0,Home,Treated/Examined and Released,Hematoma,Lower Leg,Female,Not Stated in ED Record,Hematoma,,Minor,1.89,2019
+148051,190640184,6/17/2019,25-44,1,0,Home,Treated/Examined and Released,Anoxia,All Parts Body,Male,White,Anoxia,Eyeball,Moderate,2.81,2019
+175420,190737909,7/13/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Toe,Female,White,Other/Not Stated,Knee,Minimal,0.7,2019
+344483,200102602,12/28/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Foreign Body,Hand,Female,White,Foreign Body,,Minor,2.22,2019
+79175,190427306,4/6/2019,25-44,0,0,Other Public Property,Treated and Admitted/Hospitalized,Fracture,Lower Trunk,Male,Black/African American,Fracture,,Severe,3.98,2019
+210674,190849984,7/21/2019,25-44,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,Not Stated in ED Record,Laceration,,Minor,2.02,2019
+104299,190515358,4/27/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Knee,Female,Not Stated in ED Record,"Strain, Sprain",Head,Minor,1.89,2019
+253275,191004448,9/28/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Male,Black/African American,Internal Organ Injury,,Severe,3.51,2019
+281715,191062197,10/24/2019,25-44,0,1,Home,Treated/Examined and Released,"Strain, Sprain",Knee,Male,Black/African American,"Strain, Sprain",,Minor,1.89,2019
+205036,190838773,6/18/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2019
+243609,190950126,9/21/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Neck,Male,Not Stated in ED Record,Laceration,,Minor,2.42,2019
+73829,190416641,3/28/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,White,"Strain, Sprain",,Minor,1.89,2019
+284114,191067264,10/27/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Shoulder,Male,White,Fracture,Upper Trunk,Moderate,2.98,2019
+70423,190409351,3/26/2019,25-44,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Eyeball,Male,White,"Contusions, Abrasions",Ankle,Minor,1.76,2019
+35179,190239177,2/20/2019,25-44,0,0,Home,Treated/Examined and Released,Fracture,Hand,Female,Not Stated in ED Record,Fracture,,Moderate,2.88,2019
+357139,200247775,12/15/2019,25-44,0,0,Home,Treated/Examined and Released,Other/Not Stated,Upper Arm,Female,White,Other/Not Stated,,Minimal,0.9,2019
+60917,190344925,3/12/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,,Minor,2.02,2019
+93690,190456069,4/25/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.99,2019
+265762,191029383,10/11/2019,25-44,0,0,Home,Treated/Examined and Released,Fracture,Toe,Female,Not Stated in ED Record,Fracture,,Moderate,2.68,2019
+152463,190649595,6/18/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Ankle,Female,Black/African American,Other/Not Stated,,Minimal,0.9,2019
+32657,190232728,2/15/2019,25-44,0,0,Home,Treated/Examined and Released,Fracture,Foot,Female,White,Fracture,,Moderate,2.88,2019
+187403,190802896,7/22/2019,25-44,0,0,Street or Highway,Treated/Examined and Released,Laceration,Hand,Female,Black/African American,Laceration,,Minor,2.22,2019
+102876,190512323,3/2/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Leg,Male,Black/African American,Other/Not Stated,,Minimal,0.9,2019
+119872,190546258,5/20/2019,25-44,0,0,Home,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,1.0,2019
+187278,190802580,7/30/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Finger,Male,Black/African American,Fracture,Upper Trunk,Moderate,2.68,2019
+273586,191045582,10/10/2019,25-44,0,0,Street or Highway,Treated/Examined and Released,Laceration,Mouth,Male,White,Laceration,,Minor,2.22,2019
+234547,190931076,7/5/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Lower Arm,Female,Black/African American,"Contusions, Abrasions",,Minor,1.56,2019
+213039,190854888,8/14/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Burns, Chemical",Lower Trunk,Male,Black/African American,"Burns, Chemical",Elbow,Moderate,3.31,2019
+238696,190939099,9/15/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,Black/African American,"Strain, Sprain",,Minor,1.89,2019
+206551,190841753,7/28/2019,25-44,0,0,Home,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,,Minor,2.22,2019
+209864,190848269,8/20/2019,25-44,0,0,Home,Treated/Examined and Released,Laceration,Ankle,Female,Black/African American,Laceration,,Minor,2.22,2019
+203359,190836098,8/11/2019,25-44,0,0,Home,Treated/Examined and Released,Other/Not Stated,Face,Female,White,Other/Not Stated,,Minimal,0.9,2019
+218409,190865339,8/26/2019,25-44,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,Not Stated in ED Record,Laceration,,Minor,2.02,2019
+205111,190838849,8/9/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,White,"Strain, Sprain",,Minor,1.99,2019
+207141,190842834,8/16/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Hand,Male,Black/African American,"Contusions, Abrasions",Knee,Minor,1.56,2019
+219848,190901069,8/30/2019,25-44,0,0,Street or Highway,Treated/Examined and Released,Crushing,Foot,Male,Black/African American,Crushing,,Moderate,3.21,2019
+148879,190642059,6/3/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Hand,Male,Black/African American,Laceration,Face,Minor,2.22,2019
+193516,190815891,7/26/2019,25-44,1,0,Street or Highway,Held for Observation,"Contusions, Abrasions",Wrist,Male,Black/African American,"Contusions, Abrasions",Head,Minor,2.06,2019
+269003,191035939,10/12/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Finger,Female,White,Fracture,Neck,Moderate,2.68,2019
+315139,191200883,10/26/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Hand,Male,White,Laceration,,Minor,2.22,2019
+77334,190423344,2/3/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Knee,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2019
+182534,190751652,7/23/2019,25-44,0,0,Home,Treated/Examined and Released,"Dermatitis, Conjunctivitis",Eyeball,Male,White,"Dermatitis, Conjunctivitis",,Minor,1.76,2019
+313700,191155885,11/24/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Upper Trunk,Male,Black/African American,Laceration,,Minor,2.32,2019
+7144,190128163,1/13/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Male,Asian,Other/Not Stated,,Minimal,1.0,2019
+66455,190401472,3/24/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Finger,Male,White,Fracture,,Moderate,2.68,2019
+181670,190749924,6/24/2019,25-44,0,0,Home,Treated/Examined and Released,Laceration,Finger,Female,Not Stated in ED Record,Laceration,,Minor,2.02,2019
+34050,190236704,2/5/2019,25-44,0,1,Not Recorded,Treated/Examined and Released,Ingestion,Internal,Female,Black/African American,Ingestion,All Parts Body,Moderate,2.62,2019
+253084,191004227,9/29/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Lower Leg,Male,White,Fracture,,Moderate,2.88,2019
+318578,191208222,11/17/2019,25-44,0,0,Home,Treated/Examined and Released,"Burns, Scald",Upper Leg,Female,White,"Burns, Scald",Upper Trunk,Moderate,2.55,2019
+132052,190606438,5/31/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Knee,Male,Not Stated in ED Record,Fracture,Knee,Moderate,2.88,2019
+57672,190338315,3/17/2019,25-44,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Lower Leg,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2019
+348536,200114459,11/24/2019,25-44,0,0,Home,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Female,Not Stated in ED Record,Other/Not Stated,,Minimal,1.0,2019
+9261,190133690,1/15/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Hand,Male,White,Other/Not Stated,,Minimal,0.9,2019
+283592,191065832,10/22/2019,25-44,0,0,Home,Treated/Examined and Released,Laceration,Hand,Female,White,Laceration,,Minor,2.22,2019
+92370,190453254,4/23/2019,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Female,Asian,"Strain, Sprain",,Minor,1.99,2019
+217459,190863504,7/22/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,Other,"Strain, Sprain",,Minor,1.89,2019
+218895,190866137,7/9/2019,25-44,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Lower Leg,Male,Not Stated in ED Record,Fracture,,Severe,3.88,2019
+357684,200254119,12/25/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Lower Arm,Female,Black/African American,"Contusions, Abrasions",,Minor,1.56,2019
+7857,190130092,1/14/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Upper Trunk,Male,White,"Contusions, Abrasions",,Minor,1.66,2019
+294944,191117187,10/22/2019,25-44,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Foot,Female,White,"Contusions, Abrasions",,Minor,1.56,2019
+289147,191105525,10/28/2019,25-44,0,0,Home,Treated/Examined and Released,Laceration,Hand,Male,White,Laceration,,Minor,2.22,2019
+20602,190204376,1/31/2019,25-44,0,1,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Head,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.86,2019
+223168,190907783,8/31/2019,25-44,0,0,Home,Treated/Examined and Released,Laceration,Head,Female,White,Laceration,,Moderate,2.52,2019
+147948,190639963,6/18/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Foot,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2019
+114856,190536235,5/13/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Female,Not Stated in ED Record,Laceration,,Minor,2.22,2019
+207395,190843498,8/19/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,1.0,2019
+309070,191146552,11/5/2019,25-44,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Knee,Female,White,"Contusions, Abrasions",Lower Trunk,Minor,1.56,2019
+324966,191221191,11/24/2019,25-44,0,0,Home,Treated/Examined and Released,Puncture,Hand,Male,White,Puncture,,Minor,2.22,2019
+74901,190418972,3/8/2019,25-44,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2019
+138401,190620163,6/8/2019,25-44,0,0,Other Public Property,Treated/Examined and Released,"Strain, Sprain",Upper Trunk,Female,White,"Strain, Sprain",Lower Trunk,Minor,1.99,2019
+210837,190850224,6/28/2019,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Lower Leg,Female,Not Stated in ED Record,"Strain, Sprain",Toe,Minor,1.89,2019
+119231,190544824,5/20/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Upper Arm,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,0.9,2019
+130137,190602920,5/2/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,White,"Strain, Sprain",,Minor,1.99,2019
+319517,191210090,11/26/2019,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,Black/African American,"Strain, Sprain",,Minor,1.99,2019
+243929,190950672,9/18/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,White,"Strain, Sprain",,Minor,1.89,2019
+341290,191255010,12/27/2019,25-44,0,0,Home,Treated/Examined and Released,Fracture,Upper Trunk,Male,White,Fracture,,Moderate,2.98,2019
+244097,190951043,9/15/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Upper Trunk,Female,White,"Strain, Sprain",,Minor,1.99,2019
+137794,190618763,5/29/2019,25-44,0,0,Home,Treated/Examined and Released,Anoxia,All Parts Body,Female,White,Anoxia,,Moderate,2.81,2019
+124208,190554594,5/15/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Hand,Female,Black/African American,Other/Not Stated,Upper Leg,Minimal,0.9,2019
+287563,191101890,10/26/2019,25-44,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Foot,Female,White,"Contusions, Abrasions",,Minor,1.56,2019
+315562,191201822,11/22/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Head,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.86,2019
+7341,190128895,1/10/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Female,Black/African American,Internal Organ Injury,Lower Trunk,Severe,3.51,2019
+307959,191143956,11/16/2019,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Ankle,Female,Asian,"Strain, Sprain",Head,Minor,1.89,2019
+336608,191244935,6/24/2019,25-44,0,0,Other Public Property,Treated/Examined and Released,Other/Not Stated,Hand,Female,Black/African American,Other/Not Stated,,Minimal,0.9,2019
+323995,191219379,12/8/2019,25-44,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Upper Trunk,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.66,2019
+118556,190543727,5/15/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Pubic Region,Male,White,Other/Not Stated,Head,Minimal,0.9,2019
+273051,191044294,10/17/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Wrist,Female,Black/African American,Other/Not Stated,,Minimal,0.9,2019
+119949,190546337,4/16/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Laceration,Mouth,Male,Black/African American,Laceration,,Minor,2.22,2019
+30906,190229229,1/10/2019,25-44,0,0,Home,Treated/Examined and Released,Fracture,Finger,Male,Black/African American,Fracture,,Moderate,2.68,2019
+189133,190806232,7/9/2019,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Shoulder,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.99,2019
+288644,191104422,8/14/2019,25-44,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Upper Trunk,Male,Black/African American,"Contusions, Abrasions",All Parts Body,Minor,1.66,2019
+21116,190205270,2/2/2019,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Contusions, Abrasions",Face,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2019
+277831,191053931,10/19/2019,25-44,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Hand,Male,Black/African American,"Contusions, Abrasions",,Minor,1.56,2019
+111781,190530514,5/13/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Hand,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2019
+39304,190249245,2/23/2019,25-44,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Upper Trunk,Female,White,Fracture,,Severe,3.98,2019
+40024,190250800,2/24/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,"Dermatitis, Conjunctivitis",Upper Trunk,Female,Black/African American,"Dermatitis, Conjunctivitis",,Minor,1.66,2019
+171967,190731019,7/15/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,,Minor,2.02,2019
+212839,190854504,8/10/2019,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,Head,Minor,2.22,2019
+198898,190827209,8/1/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Upper Arm,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2019
+60164,190343745,3/22/2019,45-64,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Lower Leg,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2019
+72320,190413385,3/25/2019,45-64,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,Hand,Female,White,Other/Not Stated,,Minor,1.9,2019
+8020,190130544,1/10/2019,45-64,0,0,Home,Treated/Examined and Released,Fracture,Lower Arm,Female,White,Fracture,,Moderate,2.88,2019
+291655,191110273,10/30/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Male,Black/African American,Other/Not Stated,Ankle,Minimal,1.0,2019
+243702,190950327,9/2/2019,45-64,0,0,Street or Highway,Treated and Transferred,Fracture,Upper Trunk,Male,White,Fracture,,Severe,3.73,2019
+340729,191254254,12/22/2019,45-64,0,0,Home,Treated/Examined and Released,Other/Not Stated,All Parts Body,Female,White,Other/Not Stated,,Minimal,0.5,2019
+280371,191059370,10/18/2019,45-64,0,0,Mobile/Manufactured Home,Treated and Admitted/Hospitalized,Laceration,Finger,Male,White,Laceration,Ankle,Moderate,3.02,2019
+95436,190459325,4/1/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Toe,Female,White,Other/Not Stated,,Minimal,0.7,2019
+353345,200154328,4/22/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Finger,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,0.7,2019
+57022,190336756,3/18/2019,45-64,0,0,Other Public Property,Treated/Examined and Released,Fracture,Face,Female,Not Stated in ED Record,Fracture,,Moderate,2.88,2019
+335116,191241835,12/4/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,White,"Strain, Sprain",Eyeball,Minor,1.99,2019
+71508,190411749,4/3/2019,45-64,0,0,Other Public Property,Treated/Examined and Released,"Dermatitis, Conjunctivitis",Face,Male,Not Stated in ED Record,"Dermatitis, Conjunctivitis",,Minor,1.56,2019
+8455,190131593,1/12/2019,45-64,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Face,Female,White,"Contusions, Abrasions",Shoulder,Minor,1.56,2019
+321457,191214094,8/23/2019,45-64,0,0,Home,Treated/Examined and Released,Foreign Body,Eyeball,Male,White,Foreign Body,,Minor,2.42,2019
+190067,190808539,7/13/2019,45-64,0,0,Home,Treated/Examined and Released,Fracture,Toe,Female,White,Fracture,Lower Trunk,Moderate,2.68,2019
+353961,200161129,12/16/2019,45-64,0,0,Other Public Property,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,Black/African American,Other/Not Stated,,Minimal,1.0,2019
+114474,190535466,5/10/2019,45-64,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Female,White,"Strain, Sprain",,Minor,1.99,2019
+159474,190704253,6/19/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2019
+332616,191236782,11/30/2019,45-64,0,0,Home,Treated/Examined and Released,Other/Not Stated,Finger,Female,White,Other/Not Stated,,Minimal,0.7,2019
+6996,190127911,1/14/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Upper Trunk,Male,White,"Strain, Sprain",,Minor,1.99,2019
+85516,190439745,4/12/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Upper Arm,Male,White,"Strain, Sprain",,Minor,1.89,2019
+201533,190832141,8/13/2019,45-64,0,0,Home,Treated/Examined and Released,Laceration,Face,Male,Black/African American,Laceration,,Minor,2.22,2019
+105258,190516926,5/6/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,1.0,2019
+316884,191204430,11/21/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Fracture,Toe,Female,Black/African American,Fracture,,Moderate,2.68,2019
+166996,190720489,7/6/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Female,Not Stated in ED Record,Laceration,Head,Minor,2.02,2019
+340510,191253505,11/23/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Poisoning,All Parts Body,Female,Black/African American,Poisoning,,Minor,2.48,2019
+212755,190854358,7/19/2019,45-64,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Ankle,Male,White,Fracture,,Severe,3.88,2019
+79938,190428879,4/10/2019,45-64,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,Lower Leg,Female,Not Stated in ED Record,Other/Not Stated,,Minor,1.9,2019
+203664,190836871,6/19/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Upper Leg,Female,Black/African American,"Strain, Sprain",,Minor,1.89,2019
+131022,190604020,5/28/2019,45-64,0,0,Home,Treated/Examined and Released,Laceration,Knee,Male,Black/African American,Laceration,,Minor,2.22,2019
+346835,200108778,12/17/2019,45-64,0,0,Not Recorded,Treated and Admitted/Hospitalized,Fracture,Knee,Male,Not Stated in ED Record,Fracture,Head,Severe,3.88,2019
+153951,190652923,6/22/2019,45-64,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Eyeball,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.76,2019
+280800,191060495,10/16/2019,45-64,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,Upper Trunk,Male,Black/African American,Other/Not Stated,,Minor,2.0,2019
+72083,190412784,4/2/2019,45-64,0,1,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,White,"Strain, Sprain",,Minor,1.89,2019
+106959,190520279,5/8/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Shoulder,Male,White,"Contusions, Abrasions",,Minor,1.66,2019
+302948,191133769,11/11/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Fracture,Wrist,Male,White,Fracture,,Moderate,2.88,2019
+16283,190150511,1/27/2019,45-64,0,0,Home,Treated/Examined and Released,Fracture,Foot,Female,White,Fracture,,Moderate,2.88,2019
+344928,200103480,12/10/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Nerve Damage,Neck,Female,Not Stated in ED Record,Nerve Damage,,Moderate,3.08,2019
+116346,190539209,5/13/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Laceration,Lower Leg,Male,White,Laceration,,Minor,2.22,2019
+170978,190728867,7/10/2019,45-64,0,0,Street or Highway,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Male,Black/African American,Other/Not Stated,Lower Trunk,Minimal,1.0,2019
+7219,190128471,1/2/2019,45-64,0,0,Home,Treated/Examined and Released,Laceration,Head,Female,White,Laceration,Head,Moderate,2.52,2019
+150693,190646424,6/7/2019,45-64,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,Knee,Female,Black/African American,Other/Not Stated,Face,Minor,1.9,2019
+209733,190847994,7/21/2019,45-64,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Not Stated/Unk,Female,White,"Strain, Sprain",,Minimal,1.49,2019
+62407,190347968,3/22/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Knee,Female,Black/African American,"Strain, Sprain",Lower Trunk,Minor,1.89,2019
+242717,190948850,9/4/2019,45-64,1,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2019
+189740,190807730,8/2/2019,45-64,0,0,Home,Treated/Examined and Released,Laceration,Upper Arm,Female,White,Laceration,,Minor,2.22,2019
+260846,191019945,9/28/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Laceration,Head,Male,White,Laceration,,Moderate,2.52,2019
+36138,190241321,2/9/2019,45-64,0,0,Home,Treated/Examined and Released,Dislocation,Finger,Male,White,Dislocation,Upper Arm,Minor,2.35,2019
+218120,190864651,8/28/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Burns, Scald",Hand,Female,Black/African American,"Burns, Scald",,Moderate,2.55,2019
+274031,191046256,10/17/2019,45-64,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Lower Leg,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2019
+354979,200209532,12/12/2019,45-64,0,0,Not Recorded,Left Without Being Seen,Laceration,Face,Female,White,Laceration,Wrist,Minor,1.97,2019
+29704,190226091,2/7/2019,45-64,0,0,Home,Treated/Examined and Released,Fracture,Shoulder,Female,White,Fracture,,Moderate,2.98,2019
+347538,200110395,12/21/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2019
+24763,190213954,2/6/2019,45-64,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,Black/African American,Internal Organ Injury,,Severe,3.51,2019
+167001,190720503,7/7/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Fracture,Shoulder,Male,Not Stated in ED Record,Fracture,,Moderate,2.98,2019
+187231,190802523,7/16/2019,45-64,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Severe,3.51,2019
+245521,190953794,9/23/2019,45-64,0,0,Home,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,1.0,2019
+120511,190547225,5/18/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Fracture,Ankle,Female,White,Fracture,,Moderate,2.88,2019
+129039,190600071,5/30/2019,45-64,0,0,Home,Treated/Examined and Released,Hematoma,Pubic Region,Male,Not Stated in ED Record,Hematoma,,Minor,1.89,2019
+194401,190817844,8/6/2019,45-64,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Elbow,Male,White,"Contusions, Abrasions",Knee,Minor,1.56,2019
+79421,190428012,4/13/2019,45-64,0,0,Other Public Property,Treated/Examined and Released,Other/Not Stated,Shoulder,Male,Black/African American,Other/Not Stated,Head,Minimal,1.0,2019
+251427,191000836,9/27/2019,45-64,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,Lower Trunk,Female,White,Other/Not Stated,Head,Minor,2.0,2019
+231507,190924685,9/5/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Foreign Body,Finger,Female,Black/African American,Foreign Body,,Minor,2.02,2019
+303908,191135300,11/10/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,White,"Strain, Sprain",,Minor,1.99,2019
+298392,191124286,11/4/2019,45-64,0,0,Home,Treated/Examined and Released,Fracture,Finger,Male,Black/African American,Fracture,,Moderate,2.68,2019
+41019,190300134,2/15/2019,45-64,0,0,Home,Treated/Examined and Released,Laceration,Lower Arm,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2019
+194172,190817218,7/30/2019,45-64,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Female,Not Stated in ED Record,"Strain, Sprain",,Minor,1.99,2019
+268766,191035467,10/7/2019,45-64,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,Black/African American,Internal Organ Injury,,Severe,3.51,2019
+85061,190438815,4/17/2019,45-64,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,Not Stated in ED Record,Laceration,,Minor,2.22,2019
+45298,190310036,3/1/2019,45-64,0,0,Other Public Property,Treated and Admitted/Hospitalized,Hematoma,Head,Male,Not Stated in ED Record,Hematoma,,Moderate,3.19,2019
+358068,200301285,12/29/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Laceration,Head,Male,Asian,Laceration,,Moderate,2.52,2019
+208261,190845101,7/21/2019,45-64,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Knee,Male,Black/African American,Other/Not Stated,,Minimal,0.9,2019
+30182,190227020,2/13/2019,45-64,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,,Minor,2.02,2019
+311026,191150174,8/27/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Hand,Male,White,"Contusions, Abrasions",,Minor,1.56,2019
+109970,190526488,5/2/2019,45-64,0,0,Other Public Property,Treated and Admitted/Hospitalized,"Contusions, Abrasions",Face,Male,Not Stated in ED Record,"Contusions, Abrasions",,Moderate,2.56,2019
+202302,190833750,7/28/2019,45-64,0,0,Home,Treated/Examined and Released,Anoxia,All Parts Body,Male,Not Stated in ED Record,Anoxia,,Moderate,2.81,2019
+123032,190552488,4/15/2019,45-64,1,0,Home,Treated/Examined and Released,Other/Not Stated,Not Stated/Unk,Male,White,Other/Not Stated,All Parts Body,Minimal,0.5,2019
+299836,191127212,10/8/2019,45-64,0,0,Not Recorded,Treated/Examined and Released,Concussions,Head,Female,White,Concussions,,Moderate,3.18,2019
+296783,191120525,11/5/2019,45-64,0,0,Home,Treated/Examined and Released,Other/Not Stated,Shoulder,Female,Black/African American,Other/Not Stated,,Minimal,1.0,2019
+357137,200247773,12/15/2019,45-64,0,0,Home,Treated/Examined and Released,Avulsion,Finger,Female,White,Avulsion,Shoulder,Moderate,2.68,2019
+113222,190533140,4/24/2019,45-64,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Lower Trunk,Female,Asian,"Contusions, Abrasions",,Minor,1.66,2019
+260178,191018301,10/2/2019,45-64,0,0,Place of Recreation or Sports,Treated and Admitted/Hospitalized,Other/Not Stated,All Parts Body,Male,Other,Other/Not Stated,,Minor,1.5,2019
+313725,191155952,11/26/2019,45-64,0,1,Home,Treated/Examined and Released,"Strain, Sprain",Knee,Female,White,"Strain, Sprain",Head,Minor,1.89,2019
+122010,190550165,5/19/2019,45-64,0,0,Home,Treated/Examined and Released,Laceration,Lower Arm,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2019
+230901,190923223,9/9/2019,65+,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Lower Arm,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2019
+181433,190749583,7/19/2019,65+,0,0,Not Recorded,Treated and Admitted/Hospitalized,Fracture,Face,Female,White,Fracture,,Severe,3.88,2019
+249932,190962482,9/24/2019,65+,0,0,Home,Treated/Examined and Released,Laceration,Face,Male,Black/African American,Laceration,,Minor,2.22,2019
+28422,190222764,2/8/2019,65+,0,0,Home,Treated/Examined and Released,Fracture,Upper Arm,Female,Not Stated in ED Record,Fracture,,Moderate,2.88,2019
+179159,190744909,7/13/2019,65+,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2019
+115611,190538322,5/18/2019,65+,0,0,Home,Held for Observation,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,4.01,2019
+341115,191254810,12/28/2019,65+,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,White,Laceration,,Minor,2.22,2019
+211910,190853151,8/18/2019,65+,0,0,Street or Highway,Treated/Examined and Released,Fracture,Lower Trunk,Male,Not Stated in ED Record,Fracture,,Moderate,2.98,2019
+83783,190436400,4/15/2019,65+,0,0,Home,Treated/Examined and Released,Other/Not Stated,All Parts Body,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,0.5,2019
+98526,190503499,4/19/2019,65+,0,0,Other Public Property,Treated and Admitted/Hospitalized,"Contusions, Abrasions",Lower Trunk,Female,Not Stated in ED Record,"Contusions, Abrasions",,Moderate,2.66,2019
+280622,191060061,10/7/2019,65+,0,0,Home,Left Without Being Seen,Avulsion,Toe,Male,White,Avulsion,,Minor,2.43,2019
+220940,190903189,8/30/2019,65+,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,White,Laceration,,Minor,2.22,2019
+115330,190537749,5/16/2019,65+,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Lower Leg,Female,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2019
+190989,190810526,7/19/2019,65+,0,0,Home,Treated/Examined and Released,Laceration,Head,Female,Not Stated in ED Record,Laceration,,Moderate,2.52,2019
+294672,191116374,11/6/2019,65+,0,0,Other Public Property,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Critical,4.51,2019
+197509,190824399,8/10/2019,65+,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Female,White,"Strain, Sprain",Face,Minor,1.99,2019
+344379,200102366,12/29/2019,65+,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Shoulder,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.66,2019
+289908,191106478,10/22/2019,65+,0,0,Other Public Property,Treated/Examined and Released,Fracture,Upper Trunk,Female,Not Stated in ED Record,Fracture,Lower Leg,Moderate,2.98,2019
+321280,191213564,12/5/2019,65+,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Knee,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,0.9,2019
+324843,191220858,11/29/2019,65+,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,Finger,Male,Not Stated in ED Record,Other/Not Stated,Head,Minor,1.7,2019
+137109,190617887,5/23/2019,65+,0,0,Other Public Property,Treated/Examined and Released,Internal Organ Injury,Head,Female,Black/African American,Internal Organ Injury,,Severe,3.51,2019
+346687,200108266,12/31/2019,65+,0,0,Home,Treated/Examined and Released,Laceration,Ear,Female,Not Stated in ED Record,Laceration,,Minor,2.12,2019
+262578,191023015,9/23/2019,65+,0,0,Home,Treated/Examined and Released,Poisoning,All Parts Body,Female,White,Poisoning,,Minor,2.48,2019
+183022,190752541,7/7/2019,65+,0,0,Home,Treated/Examined and Released,Hematoma,Lower Leg,Female,Not Stated in ED Record,Hematoma,,Minor,1.89,2019
+355919,200226873,12/23/2019,65+,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Knee,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2019
+36225,190241576,2/23/2019,65+,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Upper Trunk,Male,White,Fracture,Lower Leg,Severe,3.98,2019
+40892,190252513,2/25/2019,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Severe,3.51,2019
+146217,190636331,6/15/2019,65+,0,0,Home,Treated/Examined and Released,Dislocation,Shoulder,Female,Not Stated in ED Record,Dislocation,,Moderate,2.65,2019
+172451,190732007,7/9/2019,65+,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Upper Trunk,Male,White,Fracture,,Moderate,2.98,2019
+68674,190405908,3/29/2019,65+,0,0,Not Recorded,Treated/Examined and Released,Hematoma,Head,Male,Not Stated in ED Record,Hematoma,,Minor,2.19,2019
+125079,190556572,5/27/2019,65+,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Female,White,Laceration,,Minor,2.22,2019
+165278,190716937,7/5/2019,65+,0,0,Home,Treated/Examined and Released,Laceration,Finger,Female,White,Laceration,Lower Leg,Minor,2.02,2019
+323642,191218561,12/3/2019,65+,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Lower Trunk,Male,White,Fracture,,Severe,3.98,2019
+128188,190563162,5/19/2019,65+,0,0,Other Public Property,Treated/Examined and Released,Hematoma,Head,Female,White,Hematoma,,Minor,2.19,2019
+241426,190945643,8/7/2019,65+,0,0,Home,Treated/Examined and Released,Other/Not Stated,Shoulder,Female,White,Other/Not Stated,Upper Trunk,Minimal,1.0,2019
+20545,190204280,1/31/2019,65+,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Face,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2019
+149400,190642759,6/4/2019,65+,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Lower Trunk,Male,Not Stated in ED Record,Fracture,,Severe,3.98,2019
+228185,190917619,9/3/2019,65+,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,White,Other/Not Stated,,Minimal,1.0,2019
+181183,190749170,7/25/2019,65+,0,0,Other Public Property,Treated/Examined and Released,Concussions,Head,Female,Not Stated in ED Record,Concussions,,Moderate,3.18,2019
+13063,190142473,1/20/2019,65+,0,0,Other Public Property,Treated/Examined and Released,Internal Organ Injury,Head,Female,White,Internal Organ Injury,Face,Severe,3.51,2019
+309384,191147292,11/23/2019,65+,0,0,Home,Treated and Admitted/Hospitalized,"Contusions, Abrasions",Head,Male,Not Stated in ED Record,"Contusions, Abrasions",Upper Leg,Moderate,2.86,2019
+259750,191017435,10/4/2019,65+,0,0,Home,Treated/Examined and Released,Avulsion,Lower Arm,Male,White,Avulsion,,Moderate,2.88,2019
+111916,190530818,5/8/2019,65+,0,0,Home,Treated/Examined and Released,Poisoning,All Parts Body,Male,White,Poisoning,Face,Minor,2.48,2019
+31571,190230871,2/15/2019,65+,0,0,Home,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Female,Not Stated in ED Record,Internal Organ Injury,,Critical,4.51,2019
+322612,191216589,12/5/2019,65+,0,0,Home,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Critical,4.51,2019
+101469,190509882,5/1/2019,65+,1,0,Home,Treated/Examined and Released,Laceration,Lower Arm,Male,White,Laceration,All Parts Body,Minor,2.22,2019
+200670,190830549,8/2/2019,65+,0,0,School/Daycare,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Critical,4.51,2019
+17738,190154058,1/25/2019,65+,0,0,Home,Treated/Examined and Released,Laceration,Elbow,Male,White,Laceration,,Minor,2.22,2019
+107942,190522183,5/8/2019,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2019
+182230,190751071,6/24/2019,65+,0,0,Home,Treated/Examined and Released,Poisoning,All Parts Body,Female,White,Poisoning,Face,Minor,2.48,2019
+183270,190752800,7/13/2019,65+,0,0,Other Public Property,Treated/Examined and Released,Laceration,Head,Female,Not Stated in ED Record,Laceration,,Moderate,2.52,2019
+220725,190902971,8/30/2019,65+,0,0,Home,Treated/Examined and Released,Laceration,Finger,Female,Black/African American,Laceration,Lower Trunk,Minor,2.02,2019
+82041,190432858,4/13/2019,65+,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Lower Leg,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2019
+57315,190337354,3/16/2019,65+,0,0,Home,Treated and Admitted/Hospitalized,Laceration,Face,Female,Asian,Laceration,Lower Arm,Moderate,3.22,2019
+301246,191129923,11/1/2019,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,White,Internal Organ Injury,Hand,Severe,3.51,2019
+220033,190901675,8/19/2019,65+,0,0,Home,Treated and Transferred,Fracture,Upper Trunk,Male,Not Stated in ED Record,Fracture,,Severe,3.73,2019
+73210,190415612,4/4/2019,65+,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Neck,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,1.1,2019
+74289,190417545,3/31/2019,65+,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Face,Female,White,"Contusions, Abrasions",,Minor,1.56,2019
+206175,190841267,7/29/2019,65+,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Face,Female,White,"Contusions, Abrasions",,Minor,1.56,2019
+323135,191217478,11/20/2019,65+,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Face,Female,White,"Contusions, Abrasions",,Minor,1.56,2019
+309483,191147585,11/9/2019,65+,0,0,Other Public Property,Treated/Examined and Released,"Burns, Scald",Knee,Male,Black/African American,"Burns, Scald",,Moderate,2.55,2019
+1205,190109936,1/4/2019,65+,0,0,Home,Treated/Examined and Released,Fracture,Upper Arm,Female,Not Stated in ED Record,Fracture,Upper Arm,Moderate,2.88,2019
+31570,190230860,2/15/2019,65+,1,0,Home,Treated and Admitted/Hospitalized,Fracture,Wrist,Female,Not Stated in ED Record,Fracture,All Parts Body,Severe,3.88,2019
+318255,191207583,11/28/2019,65+,0,1,Home,Treated/Examined and Released,Poisoning,All Parts Body,Male,Black/African American,Poisoning,,Minor,2.48,2019
+18181,190155536,1/27/2019,65+,0,0,Not Recorded,Treated/Examined and Released,Ingestion,Internal,Female,Black/African American,Ingestion,,Moderate,2.62,2019
+18250,190155700,1/24/2019,65+,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,,Minor,2.02,2019
+193736,190816412,8/4/2019,65+,0,0,Home,Treated and Admitted/Hospitalized,"Contusions, Abrasions",Face,Male,White,"Contusions, Abrasions",,Moderate,2.56,2019
+354874,200208742,6/30/2019,65+,0,1,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Male,Black/African American,Internal Organ Injury,Neck,Severe,3.51,2019
+64294,190351995,3/26/2019,65+,0,0,Home,Treated and Transferred,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Severe,4.26,2019
+336836,191245340,12/6/2019,65+,0,0,Not Recorded,Treated/Examined and Released,Laceration,Head,Female,White,Laceration,,Moderate,2.52,2019
+421145,200322767,3/8/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Female,White,Laceration,,Minor,2.22,2020
+606305,201051826,10/21/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Shoulder,Male,Black/African American,Fracture,Head,Moderate,2.98,2020
+534829,200926630,7/21/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,Not Stated in ED Record,Laceration,Upper Leg,Minor,2.22,2020
+507206,200815674,6/4/2020,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Laceration,Face,Male,Not Stated in ED Record,Laceration,Head,Minor,2.22,2020
+381157,200208400,1/30/2020,<15,0,0,School/Daycare,Treated/Examined and Released,Concussions,Head,Female,Not Stated in ED Record,Concussions,Eyeball,Moderate,3.18,2020
+544768,200832117,8/11/2020,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Laceration,Wrist,Female,Black/African American,Laceration,,Minor,2.22,2020
+429143,200344528,3/13/2020,<15,0,0,Home,Treated and Admitted/Hospitalized,"Contusions, Abrasions",Lower Trunk,Male,White,"Contusions, Abrasions",,Moderate,2.66,2020
+422545,200326059,3/2/2020,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Dental Injury,Mouth,Female,Not Stated in ED Record,Dental Injury,,Minor,1.89,2020
+643217,210121911,11/9/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Not Stated/Unk,Male,Black/African American,Other/Not Stated,,Minimal,0.5,2020
+470164,200535795,5/17/2020,<15,0,0,Other Public Property,Treated/Examined and Released,Fracture,Upper Arm,Female,White,Fracture,,Moderate,2.88,2020
+656173,201244747,12/17/2020,<15,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Pubic Region,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2020
+525206,200749736,7/23/2020,<15,0,0,Not Recorded,Treated and Admitted/Hospitalized,Other/Not Stated,Hand,Male,White,Other/Not Stated,,Minor,1.9,2020
+667870,210246660,12/15/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Ingestion,Internal,Female,White,Ingestion,Face,Moderate,2.62,2020
+452016,200439401,4/22/2020,<15,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Hand,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2020
+543120,200827918,8/5/2020,<15,0,1,Place of Recreation or Sports,Treated/Examined and Released,Laceration,Face,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2020
+642890,210108739,11/22/2020,<15,0,0,Home,Treated/Examined and Released,Other/Not Stated,Neck,Female,Not Stated in ED Record,Other/Not Stated,,Minimal,1.1,2020
+466335,200526661,5/17/2020,<15,0,0,Home,Treated/Examined and Released,Dislocation,Elbow,Female,White,Dislocation,Foot,Moderate,2.55,2020
+502428,200703255,6/30/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Face,Male,Black/African American,Laceration,,Minor,2.22,2020
+521789,200741879,7/19/2020,<15,1,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,Black/African American,Internal Organ Injury,Head,Severe,3.51,2020
+578897,200949014,9/15/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Elbow,Female,Other,Other/Not Stated,,Minimal,0.9,2020
+515026,200726050,7/8/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,,Minor,2.02,2020
+531211,200808119,7/21/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,White,Laceration,,Minor,2.22,2020
+507120,200812485,6/16/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Poisoning,All Parts Body,Male,White,Poisoning,,Minor,2.48,2020
+551216,200847729,8/17/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Male,Black/African American,Laceration,,Minor,2.02,2020
+480163,200633157,5/9/2020,<15,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Knee,Female,White,"Strain, Sprain",Toe,Minor,1.89,2020
+596713,201026093,10/7/2020,<15,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2020
+472796,200541674,5/24/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Head,Male,White,Laceration,,Moderate,2.52,2020
+567826,200920952,9/5/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Lower Arm,Male,White,Fracture,Upper Arm,Moderate,2.88,2020
+496429,200645542,6/16/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Hand,Male,Other,Other/Not Stated,,Minimal,0.9,2020
+479028,200614783,5/31/2020,<15,0,0,Home,Treated and Admitted/Hospitalized,Ingestion,Internal,Female,Not Stated in ED Record,Ingestion,,Severe,3.62,2020
+380815,200207905,1/13/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,Black/African American,Other/Not Stated,,Minimal,1.0,2020
+542711,200827444,8/1/2020,<15,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,Head,Severe,3.51,2020
+475386,200602945,5/21/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Head,Male,Not Stated in ED Record,Laceration,,Moderate,2.52,2020
+656137,201244707,12/14/2020,<15,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Ankle,Female,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2020
+387641,200626979,1/11/2020,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Female,White,Other/Not Stated,,Minimal,1.0,2020
+505277,200716510,6/27/2020,<15,0,0,Home,Treated/Examined and Released,Foreign Body,Ear,Female,White,Foreign Body,,Minor,2.12,2020
+507006,200809129,6/10/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Knee,Male,White,Other/Not Stated,,Minimal,0.9,2020
+627462,201134031,11/6/2020,<15,0,1,Home,Treated/Examined and Released,Laceration,Face,Female,Black/African American,Laceration,All Parts Body,Minor,2.22,2020
+561638,200949261,8/15/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,,Minor,2.22,2020
+629508,201139267,11/13/2020,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Finger,Female,Not Stated in ED Record,Fracture,,Moderate,2.68,2020
+573357,200935977,9/19/2020,<15,0,0,Home,Treated/Examined and Released,Poisoning,All Parts Body,Male,White,Poisoning,Mouth,Minor,2.48,2020
+471334,200538248,5/21/2020,<15,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2020
+597915,201029510,10/10/2020,<15,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Foot,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2020
+359968,200113534,1/3/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Foot,Male,White,Fracture,,Moderate,2.88,2020
+510157,200712126,7/3/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Foot,Male,Black/African American,Fracture,,Moderate,2.88,2020
+498919,200651717,6/20/2020,<15,0,0,Not Recorded,Treated/Examined and Released,"Dermatitis, Conjunctivitis",Face,Male,Other,"Dermatitis, Conjunctivitis",,Minor,1.56,2020
+552210,200850055,8/22/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Lower Leg,Female,White,Fracture,,Moderate,2.88,2020
+453352,200442548,4/27/2020,<15,0,0,Home,Treated/Examined and Released,Fracture,Ankle,Male,White,Fracture,,Moderate,2.88,2020
+556761,200903755,8/19/2020,<15,0,0,Home,Treated/Examined and Released,Fracture,Finger,Female,Asian,Fracture,Lower Leg,Moderate,2.68,2020
+605481,201049940,10/25/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Head,Male,White,Laceration,,Moderate,2.52,2020
+575538,200941120,9/2/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,Face,Minor,2.02,2020
+432667,200353849,3/24/2020,<15,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2020
+436170,200407068,3/31/2020,<15,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2020
+597516,201027892,10/9/2020,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Dental Injury,Mouth,Male,White,Dental Injury,,Minor,1.89,2020
+415204,200412727,2/29/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Lower Arm,Male,White,Fracture,Elbow,Moderate,2.88,2020
+377525,200161876,1/24/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,Not Stated in ED Record,Laceration,,Minor,2.22,2020
+538287,200814799,8/6/2020,<15,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2020
+369578,200141739,1/15/2020,<15,0,0,School/Daycare,Treated/Examined and Released,Internal Organ Injury,Head,Female,Black/African American,Internal Organ Injury,,Severe,3.51,2020
+506820,200802565,6/13/2020,<15,0,1,Home,Treated/Examined and Released,Poisoning,All Parts Body,Male,White,Poisoning,All Parts Body,Minor,2.48,2020
+528121,200755921,7/25/2020,<15,0,0,Not Recorded,Treated and Admitted/Hospitalized,Fracture,Upper Leg,Female,Not Stated in ED Record,Fracture,Face,Severe,3.88,2020
+535478,201021167,7/16/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Severe,3.51,2020
+458673,200506583,5/1/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Laceration,Upper Arm,Female,Not Stated in ED Record,Laceration,Head,Minor,2.22,2020
+559485,200913417,8/29/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Foreign Body,Ear,Male,Not Stated in ED Record,Foreign Body,,Minor,2.12,2020
+551250,200847770,8/20/2020,<15,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2020
+664509,210123068,12/3/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Face,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2020
+479037,200614792,5/31/2020,<15,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Upper Trunk,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.66,2020
+636381,201204263,11/27/2020,<15,0,0,Place of Recreation or Sports,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,,Minor,2.22,2020
+387663,200627015,1/18/2020,<15,0,0,Not Recorded,Treated and Admitted/Hospitalized,Fracture,Upper Leg,Male,Black/African American,Fracture,,Severe,3.88,2020
+449206,200432490,4/16/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Head,Male,White,Laceration,,Moderate,2.52,2020
+582372,201001146,9/29/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,,Minor,2.02,2020
+613482,201114902,10/4/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Fracture,Wrist,Female,White,Fracture,,Moderate,2.88,2020
+393104,200222263,2/7/2020,<15,0,0,Home,Treated/Examined and Released,Ingestion,Internal,Male,Other,Ingestion,,Moderate,2.62,2020
+513004,200721188,7/9/2020,<15,0,0,Home,Treated/Examined and Released,Laceration,Ear,Female,Not Stated in ED Record,Laceration,,Minor,2.12,2020
+587180,201019539,9/20/2020,<15,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Lower Arm,Male,White,"Contusions, Abrasions",,Minor,1.56,2020
+398401,200236731,2/12/2020,<15,0,0,School/Daycare,Treated/Examined and Released,Concussions,Head,Male,White,Concussions,Face,Moderate,3.18,2020
+600591,201036267,10/15/2020,<15,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,,Minor,2.22,2020
+583465,201003603,9/23/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Ankle,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,0.9,2020
+478683,200612168,5/27/2020,15-24,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Hand,Male,Other,"Contusions, Abrasions",,Minor,1.56,2020
+398167,200236107,2/7/2020,15-24,0,0,Home,Treated/Examined and Released,Fracture,Hand,Male,White,Fracture,Neck,Moderate,2.88,2020
+403945,200250984,2/14/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Knee,Male,Black/African American,"Strain, Sprain",,Minor,1.89,2020
+413006,200336894,2/28/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,White,"Strain, Sprain",,Minor,1.89,2020
+647731,201221087,12/8/2020,15-24,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Foot,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2020
+397832,200234994,2/13/2020,15-24,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Shoulder,Female,White,"Contusions, Abrasions",,Minor,1.66,2020
+620675,201114082,11/5/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2020
+523204,200745337,7/20/2020,15-24,0,0,Home,Treated/Examined and Released,Fracture,Lower Leg,Male,White,Fracture,,Moderate,2.88,2020
+590985,201226903,9/4/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Female,White,Other/Not Stated,,Minimal,1.0,2020
+487064,200623399,6/9/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,Black/African American,Other/Not Stated,,Minimal,1.0,2020
+559462,200913350,8/30/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Knee,Male,White,"Strain, Sprain",,Minor,1.89,2020
+612328,201108558,10/31/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,Asian,"Strain, Sprain",,Minor,1.89,2020
+388758,200204817,2/1/2020,15-24,0,0,Home,Treated/Examined and Released,Laceration,Pubic Region,Male,Black/African American,Laceration,Head,Minor,2.22,2020
+515223,200726328,7/6/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Puncture,Hand,Female,Not Stated in ED Record,Puncture,,Minor,2.22,2020
+529820,200803098,7/16/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Ear,Female,White,Internal Organ Injury,,Moderate,3.11,2020
+494358,200640694,6/17/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Mouth,Female,Black/African American,Other/Not Stated,,Minimal,0.9,2020
+607531,201054768,10/24/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Male,Not Stated in ED Record,Laceration,,Minor,2.02,2020
+486257,200621415,6/6/2020,15-24,0,0,Home,Treated/Examined and Released,"Burns, Thermal",Face,Male,White,"Burns, Thermal",,Moderate,2.88,2020
+385133,200319678,1/22/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Dislocation,Shoulder,Male,White,Dislocation,,Moderate,2.65,2020
+371831,200148020,1/16/2020,15-24,0,0,School/Daycare,Treated/Examined and Released,Concussions,Head,Male,White,Concussions,,Moderate,3.18,2020
+548873,200841947,8/10/2020,15-24,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Eyeball,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.76,2020
+409842,200311046,2/29/2020,15-24,0,0,Not Recorded,Left Without Being Seen,Laceration,Elbow,Male,Black/African American,Laceration,,Minor,1.97,2020
+483854,200614777,6/6/2020,15-24,0,0,Home,Treated/Examined and Released,Concussions,Head,Male,Black/African American,Concussions,,Moderate,3.18,2020
+522358,200743032,7/24/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Female,Not Stated in ED Record,Other/Not Stated,,Minimal,1.0,2020
+393036,200222059,2/5/2020,15-24,0,0,Home,Treated/Examined and Released,Other/Not Stated,Ankle,Female,White,Other/Not Stated,,Minimal,0.9,2020
+579154,200949381,9/23/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Dislocation,Shoulder,Male,Not Stated in ED Record,Dislocation,,Moderate,2.65,2020
+391049,200215744,2/7/2020,15-24,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Upper Trunk,Female,Not Stated in ED Record,"Strain, Sprain",,Minor,1.99,2020
+590097,201108625,9/22/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Finger,Male,Black/African American,"Contusions, Abrasions",Upper Trunk,Minimal,1.36,2020
+560875,200930678,8/31/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Laceration,Mouth,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2020
+370025,200143013,1/12/2020,15-24,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Foot,Male,White,"Strain, Sprain",,Minor,1.89,2020
+583623,201003982,9/29/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Female,Not Stated in ED Record,"Strain, Sprain",,Minor,1.99,2020
+569631,200925970,9/13/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Wrist,Male,White,Fracture,,Moderate,2.88,2020
+663064,210111019,12/30/2020,15-24,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Shoulder,Female,White,"Contusions, Abrasions",Knee,Minor,1.66,2020
+359228,200109928,1/4/2020,15-24,0,0,Home,Treated/Examined and Released,"Burns, Scald",Upper Leg,Female,White,"Burns, Scald",,Moderate,2.55,2020
+467570,200529682,5/13/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Female,White,Other/Not Stated,,Minimal,1.0,2020
+578138,200946715,9/16/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Face,Female,White,Fracture,,Moderate,2.88,2020
+456785,200521581,4/23/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Fracture,Hand,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2020
+630299,201140758,11/17/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Male,White,Other/Not Stated,,Minimal,1.0,2020
+660999,210103462,12/30/2020,15-24,0,0,Home,Treated/Examined and Released,Fracture,Upper Leg,Male,White,Fracture,,Moderate,2.88,2020
+426513,200337032,3/4/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Foreign Body,Ear,Female,Black/African American,Foreign Body,Elbow,Minor,2.12,2020
+375554,200156941,1/16/2020,15-24,0,0,Home,Treated/Examined and Released,Other/Not Stated,Ankle,Female,White,Other/Not Stated,,Minimal,0.9,2020
+445812,200423609,4/15/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Fracture,Lower Arm,Male,Not Stated in ED Record,Fracture,Foot,Moderate,2.88,2020
+495489,200643341,6/19/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Laceration,Hand,Male,White,Laceration,,Minor,2.22,2020
+482569,200609584,6/1/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Wrist,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2020
+401850,200245460,2/20/2020,15-24,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Foot,Male,Other,"Strain, Sprain",,Minor,1.89,2020
+460443,200512137,5/5/2020,15-24,0,0,Home,Treated/Examined and Released,"Burns, Chemical",Eyeball,Female,Not Stated in ED Record,"Burns, Chemical",Lower Leg,Moderate,3.41,2020
+400064,200241004,2/10/2020,15-24,0,0,School/Daycare,Treated/Examined and Released,"Contusions, Abrasions",Finger,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minimal,1.36,2020
+534686,200922861,7/16/2020,15-24,0,0,Home,Treated/Examined and Released,Concussions,Head,Female,Black/African American,Concussions,,Moderate,3.18,2020
+610747,201104508,10/28/2020,15-24,0,0,Not Recorded,Treated/Examined and Released,Concussions,Head,Female,Black/African American,Concussions,,Moderate,3.18,2020
+430583,200348302,3/13/2020,25-44,0,0,Home,Treated/Examined and Released,Other/Not Stated,Not Stated/Unk,Female,White,Other/Not Stated,,Minimal,0.5,2020
+639192,201212950,11/15/2020,25-44,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Lower Trunk,Female,Black/African American,"Contusions, Abrasions",,Minor,1.66,2020
+453931,200501466,4/24/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Neck,Male,Black/African American,Other/Not Stated,,Minimal,1.1,2020
+577242,200944850,9/14/2020,25-44,0,0,Home,Treated/Examined and Released,Electric Shock,All Parts Body,Female,Not Stated in ED Record,Electric Shock,,Minor,2.48,2020
+483333,200613075,6/2/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Wrist,Male,Not Stated in ED Record,"Strain, Sprain",Knee,Minor,1.89,2020
+370136,200143506,1/19/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Leg,Female,Not Stated in ED Record,Other/Not Stated,,Minimal,0.9,2020
+534850,200927064,7/23/2020,25-44,0,0,Other Public Property,Treated/Examined and Released,Nerve Damage,Lower Trunk,Male,White,Nerve Damage,,Moderate,2.98,2020
+416534,200820037,2/23/2020,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Knee,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,0.9,2020
+529166,200802010,7/28/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Hand,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2020
+593779,201016795,10/6/2020,25-44,0,0,Home,Treated/Examined and Released,Crushing,Hand,Male,Black/African American,Crushing,,Moderate,3.21,2020
+648347,201222657,12/11/2020,25-44,0,0,Home,Treated/Examined and Released,Foreign Body,Foot,Female,White,Foreign Body,,Minor,2.22,2020
+399105,200238473,2/4/2020,25-44,0,1,Home,Treated/Examined and Released,Laceration,Hand,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2020
+493224,200638417,6/16/2020,25-44,0,0,Other Public Property,Left Without Being Seen,Other/Not Stated,Not Stated/Unk,Male,Black/African American,Other/Not Stated,,Minimal,0.25,2020
+446531,200425838,4/18/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Hand,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2020
+545524,200833861,8/16/2020,25-44,0,0,Home,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,1.0,2020
+446992,200426613,4/15/2020,25-44,0,0,Home,Treated/Examined and Released,Fracture,Wrist,Female,Not Stated in ED Record,Fracture,,Moderate,2.88,2020
+493963,200639844,6/18/2020,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Toe,Male,Black/African American,"Strain, Sprain",Upper Trunk,Minor,1.69,2020
+620452,201112608,11/5/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Foreign Body,Ear,Female,Black/African American,Foreign Body,Foot,Minor,2.12,2020
+567668,200920366,9/11/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Ingestion,Internal,Male,Black/African American,Ingestion,Finger,Moderate,2.62,2020
+455852,200508943,4/18/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Female,White,Laceration,,Minor,2.02,2020
+600966,201037088,10/7/2020,25-44,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Finger,Female,White,"Contusions, Abrasions",Knee,Minimal,1.36,2020
+389580,200209859,2/3/2020,25-44,0,0,Home,Treated/Examined and Released,"Burns, Chemical",Upper Leg,Male,Not Stated in ED Record,"Burns, Chemical",,Moderate,3.21,2020
+602773,201041983,10/13/2020,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,White,"Strain, Sprain",,Minor,1.99,2020
+526742,200753324,7/27/2020,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Knee,Male,Black/African American,"Strain, Sprain",,Minor,1.89,2020
+408545,200305789,2/29/2020,25-44,0,0,Other Public Property,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,Not Stated in ED Record,"Strain, Sprain",Lower Trunk,Minor,1.89,2020
+415761,200543343,2/8/2020,25-44,0,0,Home,Treated/Examined and Released,"Dermatitis, Conjunctivitis",Eyeball,Female,Black/African American,"Dermatitis, Conjunctivitis",Lower Leg,Minor,1.76,2020
+437736,200417281,3/14/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Knee,Male,Black/African American,"Strain, Sprain",,Minor,1.89,2020
+535028,200933052,7/24/2020,25-44,0,0,Home,Treated/Examined and Released,Fracture,Face,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2020
+446382,200425485,4/15/2020,25-44,0,0,Street or Highway,Treated/Examined and Released,Concussions,Head,Male,Black/African American,Concussions,,Moderate,3.18,2020
+440312,200729346,3/17/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Knee,Female,Black/African American,Other/Not Stated,,Minimal,0.9,2020
+655657,201243926,12/18/2020,25-44,0,0,Home,Treated/Examined and Released,Poisoning,All Parts Body,Female,White,Poisoning,,Minor,2.48,2020
+530744,200806187,7/30/2020,25-44,0,0,Street or Highway,Treated/Examined and Released,Other/Not Stated,Face,Female,White,Other/Not Stated,,Minimal,0.9,2020
+585312,201009700,9/5/2020,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Ankle,Female,White,"Strain, Sprain",,Minor,1.89,2020
+652460,201234657,12/15/2020,25-44,0,0,Home,Treated/Examined and Released,Poisoning,All Parts Body,Female,White,Poisoning,,Minor,2.48,2020
+586795,201017928,9/2/2020,25-44,0,0,Street or Highway,Treated/Examined and Released,Other/Not Stated,Elbow,Male,Black/African American,Other/Not Stated,,Minimal,0.9,2020
+656899,201246874,12/22/2020,25-44,0,0,Street or Highway,Treated/Examined and Released,Fracture,Hand,Female,Black/African American,Fracture,,Moderate,2.88,2020
+534076,200900415,7/29/2020,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,,Minor,2.22,2020
+473769,200543604,5/27/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,,Minor,2.02,2020
+392611,200220334,2/9/2020,25-44,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2020
+412761,200333390,2/3/2020,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Wrist,Male,White,"Strain, Sprain",Head,Minor,1.89,2020
+450927,200436597,4/21/2020,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,White,"Strain, Sprain",,Minor,1.89,2020
+452485,200440416,4/27/2020,25-44,0,0,Other Public Property,Treated and Admitted/Hospitalized,Other/Not Stated,Lower Leg,Male,White,Other/Not Stated,,Minor,1.9,2020
+634238,201151573,11/27/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Head,Male,White,Laceration,,Moderate,2.52,2020
+361510,200119960,1/7/2020,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Fracture,Lower Leg,Male,White,Fracture,,Moderate,2.88,2020
+622008,201118757,11/6/2020,25-44,0,0,Not Recorded,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Critical,4.51,2020
+388555,200740907,1/25/2020,25-44,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Elbow,Male,White,"Contusions, Abrasions",,Minor,1.56,2020
+400550,200242157,2/20/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Lower Leg,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2020
+607203,201053768,10/25/2020,25-44,0,0,Not Recorded,Treated and Admitted/Hospitalized,Other/Not Stated,Foot,Female,Not Stated in ED Record,Other/Not Stated,,Minor,1.9,2020
+378041,200163553,1/26/2020,25-44,0,0,Other Public Property,Treated/Examined and Released,Fracture,Wrist,Female,Not Stated in ED Record,Fracture,Lower Trunk,Moderate,2.88,2020
+539177,200817517,8/7/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Foot,Male,Black/African American,Laceration,,Minor,2.22,2020
+563431,201113963,8/26/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Female,Black/African American,Other/Not Stated,,Minimal,1.0,2020
+638457,201210210,11/29/2020,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Male,Black/African American,Other/Not Stated,,Minimal,1.0,2020
+600445,201036012,10/14/2020,25-44,0,0,Street or Highway,Treated/Examined and Released,Hematoma,Lower Trunk,Male,Not Stated in ED Record,Hematoma,,Minor,1.99,2020
+395687,200230260,2/13/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,Not Stated in ED Record,Laceration,,Minor,2.02,2020
+538731,200815625,8/4/2020,25-44,0,0,Not Recorded,Left Without Being Seen,Other/Not Stated,Upper Trunk,Female,Not Stated in ED Record,Other/Not Stated,,Minimal,0.75,2020
+397826,200234977,2/14/2020,25-44,0,0,Home,Treated/Examined and Released,Other/Not Stated,Shoulder,Male,White,Other/Not Stated,,Minimal,1.0,2020
+595800,201023388,10/2/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Head,Male,White,Other/Not Stated,,Minimal,1.2,2020
+560138,200920411,8/23/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,,Minor,2.02,2020
+575053,200939745,9/19/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Finger,Female,Black/African American,Laceration,Head,Minor,2.02,2020
+477657,200608364,5/27/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,1.0,2020
+399397,200239177,2/16/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Avulsion,Finger,Male,Not Stated in ED Record,Avulsion,,Moderate,2.68,2020
+620369,201112330,11/4/2020,25-44,0,0,Home,Treated/Examined and Released,Anoxia,All Parts Body,Female,Not Stated in ED Record,Anoxia,,Moderate,2.81,2020
+419922,200318950,3/8/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Mouth,Female,White,Laceration,,Minor,2.22,2020
+407153,200302489,2/25/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Finger,Female,White,Laceration,,Minor,2.02,2020
+610810,201104571,10/29/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Toe,Male,White,Fracture,,Moderate,2.68,2020
+533707,200842998,7/1/2020,25-44,0,0,Not Recorded,Treated and Admitted/Hospitalized,Poisoning,All Parts Body,Female,White,Poisoning,,Moderate,3.48,2020
+497923,200649033,6/23/2020,25-44,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Hand,Female,White,"Contusions, Abrasions",,Minor,1.56,2020
+508568,200705816,7/1/2020,25-44,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,Black/African American,Internal Organ Injury,,Severe,3.51,2020
+386223,200441616,1/3/2020,25-44,0,0,Home,Treated/Examined and Released,Avulsion,Finger,Male,Asian,Avulsion,,Moderate,2.68,2020
+500933,200700035,6/28/2020,25-44,0,0,Street or Highway,Treated/Examined and Released,Fracture,Knee,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2020
+550977,200847238,8/20/2020,25-44,0,0,Street or Highway,Treated/Examined and Released,"Contusions, Abrasions",Upper Trunk,Male,White,"Contusions, Abrasions",,Minor,1.66,2020
+633028,201147657,11/23/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Ankle,Male,White,"Strain, Sprain",,Minor,1.89,2020
+377423,200161679,1/26/2020,25-44,0,0,Home,Treated/Examined and Released,Fracture,Upper Trunk,Male,White,Fracture,,Moderate,2.98,2020
+659394,201252839,12/25/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Lower Arm,Male,White,Laceration,Head,Minor,2.22,2020
+489713,200630086,6/14/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Wrist,Female,White,Fracture,,Moderate,2.88,2020
+361686,200120406,1/8/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Toe,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minimal,1.36,2020
+449549,200433562,4/12/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,Head,Minor,2.02,2020
+386254,200500329,1/4/2020,25-44,0,0,Other Public Property,Treated/Examined and Released,Other/Not Stated,Knee,Male,White,Other/Not Stated,Eyeball,Minimal,0.9,2020
+556712,200903693,8/29/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,"Burns, Scald",Lower Arm,Male,Not Stated in ED Record,"Burns, Scald",Upper Arm,Moderate,2.55,2020
+598686,201031880,10/11/2020,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Neck,Female,Black/African American,"Strain, Sprain",,Minor,2.09,2020
+468500,200532070,5/17/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Head,Male,White,"Contusions, Abrasions",Head,Minor,1.86,2020
+486861,200622873,6/10/2020,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Lower Leg,Male,White,Other/Not Stated,,Minimal,0.9,2020
+590392,201118348,9/27/2020,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,White,"Strain, Sprain",,Minor,1.99,2020
+591825,201008948,10/4/2020,25-44,0,0,Street or Highway,Treated/Examined and Released,"Contusions, Abrasions",Knee,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2020
+424224,200330938,3/14/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Dislocation,Shoulder,Male,Black/African American,Dislocation,,Moderate,2.65,2020
+486193,200621255,6/8/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Hand,Female,Not Stated in ED Record,Laceration,,Minor,2.22,2020
+494954,200642239,6/20/2020,25-44,0,0,Home,Treated/Examined and Released,"Dermatitis, Conjunctivitis",Pubic Region,Female,Not Stated in ED Record,"Dermatitis, Conjunctivitis",,Minor,1.56,2020
+381484,200210339,1/29/2020,25-44,0,0,Home,Treated/Examined and Released,Other/Not Stated,Face,Female,White,Other/Not Stated,,Minimal,0.9,2020
+431506,200350839,3/23/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Fracture,Upper Trunk,Female,White,Fracture,,Moderate,2.98,2020
+610049,201102935,10/28/2020,25-44,0,0,Home,Treated/Examined and Released,Fracture,Face,Male,Not Stated in ED Record,Fracture,,Moderate,2.88,2020
+402381,200246884,2/19/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Head,Female,Not Stated in ED Record,Laceration,,Moderate,2.52,2020
+655786,201244187,12/23/2020,25-44,0,0,Other Public Property,Treated/Examined and Released,Ingestion,Internal,Female,Not Stated in ED Record,Ingestion,,Moderate,2.62,2020
+572415,200933040,9/4/2020,25-44,0,0,Other Public Property,Treated/Examined and Released,Other/Not Stated,Knee,Female,Black/African American,Other/Not Stated,,Minimal,0.9,2020
+545647,200834111,8/15/2020,25-44,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,Black/African American,Laceration,,Minor,2.02,2020
+406830,200301929,2/26/2020,25-44,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.99,2020
+365790,200132346,1/5/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Laceration,Toe,Male,Not Stated in ED Record,Laceration,,Minor,2.02,2020
+538229,200814598,8/6/2020,25-44,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Neck,Female,Not Stated in ED Record,Other/Not Stated,,Minimal,1.1,2020
+609664,201102320,10/28/2020,25-44,0,0,Home,Treated/Examined and Released,Fracture,Lower Trunk,Female,Black/African American,Fracture,,Moderate,2.98,2020
+360712,200117352,1/4/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Face,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2020
+601964,201039927,10/10/2020,25-44,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Female,White,Other/Not Stated,,Minimal,1.0,2020
+613731,201115941,10/30/2020,45-64,0,0,Home,Treated/Examined and Released,Other/Not Stated,Lower Leg,Female,Black/African American,Other/Not Stated,Finger,Minimal,0.9,2020
+404928,200253901,2/15/2020,45-64,0,0,Place of Recreation or Sports,Treated/Examined and Released,Other/Not Stated,Lower Leg,Female,Asian,Other/Not Stated,,Minimal,0.9,2020
+484198,200615616,6/3/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Fracture,Upper Trunk,Male,Asian,Fracture,,Moderate,2.98,2020
+566523,200917412,9/4/2020,45-64,0,1,Home,Treated/Examined and Released,Other/Not Stated,Head,Female,White,Other/Not Stated,,Minimal,1.2,2020
+638359,201209506,11/26/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Amputation,Finger,Male,Black/African American,Amputation,,Moderate,3.34,2020
+381791,200211731,1/24/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Foreign Body,Eyeball,Male,White,Foreign Body,,Minor,2.42,2020
+662936,210109982,12/18/2020,45-64,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,Toe,Male,Black/African American,Other/Not Stated,,Minor,1.7,2020
+362818,200123940,1/6/2020,45-64,0,0,Home,Treated/Examined and Released,Laceration,Head,Female,White,Laceration,,Moderate,2.52,2020
+549456,200843253,8/14/2020,45-64,0,0,Home,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Critical,4.51,2020
+592739,201013529,10/3/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Ankle,Female,White,"Strain, Sprain",,Minor,1.89,2020
+490263,200631319,6/12/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Arm,Male,White,Other/Not Stated,,Minimal,0.9,2020
+655877,201244313,12/21/2020,45-64,0,0,Home,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Female,White,Other/Not Stated,,Minimal,1.0,2020
+393520,200223191,2/10/2020,45-64,0,0,Not Recorded,Treated and Admitted/Hospitalized,Foreign Body,Hand,Female,Not Stated in ED Record,Foreign Body,,Moderate,3.22,2020
+647553,201220416,12/4/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Lower Arm,Female,White,"Strain, Sprain",,Minor,1.89,2020
+480076,200629482,5/30/2020,45-64,0,0,Other Public Property,Left Without Being Seen,Fracture,Upper Trunk,Male,Not Stated in ED Record,Fracture,Toe,Moderate,2.73,2020
+502182,200702646,6/27/2020,45-64,0,0,Home,Treated/Examined and Released,Laceration,Hand,Female,White,Laceration,,Minor,2.22,2020
+561232,200938519,8/13/2020,45-64,0,0,Other Public Property,Treated/Examined and Released,Fracture,Shoulder,Male,White,Fracture,,Moderate,2.98,2020
+541391,200824230,8/10/2020,45-64,0,0,Place of Recreation or Sports,Treated/Examined and Released,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Severe,3.51,2020
+607971,201055441,10/22/2020,45-64,0,0,Other Public Property,Treated/Examined and Released,Internal Organ Injury,Head,Male,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2020
+481318,200735571,5/16/2020,45-64,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,All Parts Body,Male,Black/African American,Other/Not Stated,,Minor,1.5,2020
+536693,200809322,8/4/2020,45-64,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Foot,Male,White,"Strain, Sprain",,Minor,1.89,2020
+552556,200850823,8/23/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Female,White,"Strain, Sprain",,Minor,1.99,2020
+443799,200417773,4/9/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Fracture,Wrist,Male,White,Fracture,,Moderate,2.88,2020
+515208,200726301,7/6/2020,45-64,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Knee,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2020
+582577,201001655,9/25/2020,45-64,0,0,Home,Treated/Examined and Released,Crushing,Foot,Male,Black/African American,Crushing,,Moderate,3.21,2020
+471294,200538129,5/20/2020,45-64,0,0,Home,Treated and Transferred,Fracture,Upper Trunk,Female,White,Fracture,,Severe,3.73,2020
+424827,200332332,3/14/2020,45-64,0,0,Other Public Property,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Female,Black/African American,"Strain, Sprain",,Minor,1.99,2020
+454798,200503843,4/30/2020,45-64,0,0,Home,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,White,Other/Not Stated,,Minimal,1.0,2020
+526546,200752742,7/19/2020,45-64,0,0,Not Recorded,Treated and Transferred,Fracture,Toe,Female,Not Stated in ED Record,Fracture,Foot,Moderate,3.43,2020
+431471,200350797,3/5/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Eyeball,Male,White,Other/Not Stated,,Minimal,1.1,2020
+359821,200113005,1/4/2020,45-64,0,0,Home,Treated/Examined and Released,Hematoma,Lower Trunk,Male,Not Stated in ED Record,Hematoma,,Minor,1.99,2020
+527235,200754187,7/22/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Lower Trunk,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.66,2020
+639232,201213123,11/16/2020,45-64,0,0,Home,Treated/Examined and Released,Other/Not Stated,Lower Trunk,Male,Black/African American,Other/Not Stated,,Minimal,1.0,2020
+381792,200211736,1/24/2020,45-64,0,0,Home,Treated/Examined and Released,Hematoma,Lower Trunk,Male,White,Hematoma,Face,Minor,1.99,2020
+574486,200938178,9/10/2020,45-64,0,0,Home,Treated and Transferred,"Burns, Thermal",Lower Leg,Male,White,"Burns, Thermal",,Severe,3.63,2020
+610833,201104640,10/31/2020,45-64,0,0,Other Public Property,Held for Observation,Other/Not Stated,Knee,Female,Not Stated in ED Record,Other/Not Stated,,Minimal,1.4,2020
+534282,200905229,7/11/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Fracture,Shoulder,Male,White,Fracture,Face,Moderate,2.98,2020
+615884,201142354,10/22/2020,45-64,0,0,Other Public Property,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,,Minor,2.22,2020
+599303,201033133,10/13/2020,45-64,0,0,Home,Treated/Examined and Released,Fracture,Upper Trunk,Male,Not Stated in ED Record,Fracture,,Moderate,2.98,2020
+640016,201216609,11/29/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,Not Stated in ED Record,"Strain, Sprain",,Minor,1.99,2020
+571645,200931371,9/2/2020,45-64,0,0,Street or Highway,Treated/Examined and Released,"Contusions, Abrasions",Knee,Male,White,"Contusions, Abrasions",,Minor,1.56,2020
+661297,210104238,12/28/2020,45-64,0,0,Home,Treated/Examined and Released,Laceration,Finger,Female,White,Laceration,,Minor,2.02,2020
+615530,201136987,10/31/2020,45-64,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,White,"Strain, Sprain",,Minor,1.99,2020
+633033,201147662,11/23/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2020
+527798,200755359,7/29/2020,45-64,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Lower Arm,Female,White,"Contusions, Abrasions",,Minor,1.56,2020
+632260,201146115,11/20/2020,45-64,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,Lower Trunk,Male,Black/African American,Other/Not Stated,Head,Minor,2.0,2020
+481961,201049559,5/1/2020,45-64,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2020
+530099,200803868,7/22/2020,45-64,0,0,Home,Treated/Examined and Released,Laceration,Wrist,Female,White,Laceration,,Minor,2.22,2020
+397048,200232878,2/13/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Male,Black/African American,Laceration,Lower Leg,Minor,2.22,2020
+484279,200616033,6/6/2020,45-64,0,0,Home,Treated/Examined and Released,Fracture,Foot,Male,White,Fracture,,Moderate,2.88,2020
+550063,200844916,8/19/2020,45-64,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Lower Trunk,Female,Not Stated in ED Record,Fracture,,Severe,3.98,2020
+597552,201027978,10/8/2020,45-64,0,0,Home,Treated/Examined and Released,Other/Not Stated,Knee,Female,Black/African American,Other/Not Stated,,Minimal,0.9,2020
+367202,200136038,1/9/2020,45-64,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Face,Male,White,"Contusions, Abrasions",Neck,Minor,1.56,2020
+509140,200708553,7/1/2020,45-64,0,0,Home,Treated/Examined and Released,Laceration,Hand,Male,White,Laceration,Upper Trunk,Minor,2.22,2020
+621765,201117765,11/9/2020,45-64,0,0,Home,Treated/Examined and Released,Fracture,Upper Trunk,Female,White,Fracture,,Moderate,2.98,2020
+461209,200514032,5/3/2020,45-64,0,0,Not Recorded,Treated and Transferred,"Burns, Thermal",Hand,Male,White,"Burns, Thermal",,Severe,3.63,2020
+544898,200832359,8/8/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,Finger,Minor,2.22,2020
+614099,201118904,10/30/2020,45-64,0,0,Home,Treated/Examined and Released,Fracture,Wrist,Female,White,Fracture,,Moderate,2.88,2020
+610093,201102980,10/28/2020,45-64,0,1,Home,Treated/Examined and Released,Nerve Damage,Lower Trunk,Male,White,Nerve Damage,All Parts Body,Moderate,2.98,2020
+451379,200437922,4/21/2020,45-64,0,0,Home,Treated/Examined and Released,Laceration,Lower Leg,Female,White,Laceration,Upper Trunk,Minor,2.22,2020
+647728,201221082,12/8/2020,45-64,0,0,Home,Treated/Examined and Released,Fracture,Foot,Female,Not Stated in ED Record,Fracture,,Moderate,2.88,2020
+469403,200534517,5/18/2020,45-64,0,0,Street or Highway,Treated/Examined and Released,Hematoma,Upper Trunk,Male,Not Stated in ED Record,Hematoma,,Minor,1.99,2020
+661573,210105117,12/14/2020,45-64,0,0,Home,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Critical,4.51,2020
+428975,200344000,3/19/2020,45-64,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Shoulder,Male,White,"Contusions, Abrasions",,Minor,1.66,2020
+551781,200849365,8/24/2020,45-64,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Knee,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2020
+574272,200937807,9/14/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Fracture,Upper Trunk,Male,Black/African American,Fracture,,Moderate,2.98,2020
+497667,200648729,6/22/2020,45-64,0,0,Home,Treated and Admitted/Hospitalized,Internal Organ Injury,Neck,Male,Black/African American,Internal Organ Injury,,Severe,4.41,2020
+619484,201106162,11/1/2020,45-64,0,1,Home,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,,Minor,2.22,2020
+425141,200333562,3/14/2020,45-64,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Male,White,"Strain, Sprain",,Minor,1.99,2020
+565770,200914977,9/5/2020,45-64,1,1,Not Recorded,Treated/Examined and Released,Laceration,Lower Arm,Male,Not Stated in ED Record,Laceration,All Parts Body,Minor,2.22,2020
+575422,200940781,9/21/2020,45-64,1,0,Home,Treated/Examined and Released,Laceration,Wrist,Female,White,Laceration,Lower Arm,Minor,2.22,2020
+569731,200926132,9/13/2020,45-64,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,Head,Minor,2.02,2020
+626667,201132129,11/12/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Ankle,Male,Black/African American,Other/Not Stated,,Minimal,0.9,2020
+606238,201051546,10/26/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Ankle,Female,Black/African American,Other/Not Stated,,Minimal,0.9,2020
+477431,200607796,5/31/2020,45-64,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Upper Trunk,Female,Not Stated in ED Record,Fracture,Upper Trunk,Severe,3.98,2020
+494740,200641803,6/7/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Fracture,Finger,Male,Not Stated in ED Record,Fracture,,Moderate,2.68,2020
+385163,200320457,1/15/2020,45-64,0,0,Other Public Property,Treated/Examined and Released,"Strain, Sprain",Knee,Female,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2020
+426039,200336234,3/3/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Dislocation,Knee,Female,Not Stated in ED Record,Dislocation,Upper Arm,Moderate,2.55,2020
+649813,201226563,12/9/2020,45-64,0,0,Place of Recreation or Sports,Treated/Examined and Released,Dislocation,Shoulder,Male,White,Dislocation,,Moderate,2.65,2020
+579907,200951004,9/23/2020,45-64,0,0,Home,Treated/Examined and Released,Laceration,Hand,Female,White,Laceration,,Minor,2.22,2020
+634949,201200147,11/26/2020,45-64,0,0,Home,Treated/Examined and Released,Laceration,Hand,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2020
+420015,200319106,3/7/2020,45-64,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Male,Not Stated in ED Record,Laceration,,Minor,2.22,2020
+363814,200126993,1/1/2020,45-64,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Head,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.86,2020
+511156,200715562,7/6/2020,45-64,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2020
+411753,200323076,2/23/2020,45-64,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Finger,Female,White,"Contusions, Abrasions",,Minimal,1.36,2020
+445924,200423813,4/7/2020,65+,0,0,Home,Treated/Examined and Released,Aspiration,Internal,Male,Not Stated in ED Record,Aspiration,,Moderate,3.28,2020
+504099,200708691,6/30/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Critical,4.51,2020
+496921,200646937,6/19/2020,65+,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,White,Laceration,,Minor,2.02,2020
+555220,200856756,8/19/2020,65+,0,0,Home,Treated/Examined and Released,Other/Not Stated,Lower Leg,Male,White,Other/Not Stated,,Minimal,0.9,2020
+475843,200603812,5/23/2020,65+,0,0,Not Recorded,Treated and Admitted/Hospitalized,Fracture,Upper Trunk,Male,White,Fracture,,Severe,3.98,2020
+464248,200521746,5/12/2020,65+,0,0,Home,Treated/Examined and Released,"Strain, Sprain",Lower Trunk,Female,White,"Strain, Sprain",,Minor,1.99,2020
+459439,200509568,5/3/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Female,Not Stated in ED Record,Internal Organ Injury,,Critical,4.51,2020
+448333,200430638,4/16/2020,65+,0,0,Not Recorded,Treated and Admitted/Hospitalized,Poisoning,All Parts Body,Female,White,Poisoning,Head,Moderate,3.48,2020
+441917,200410873,4/2/2020,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Severe,3.51,2020
+621008,201115067,11/4/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,All Parts Body,Female,Not Stated in ED Record,Other/Not Stated,,Minor,1.5,2020
+513179,200721402,7/10/2020,65+,0,0,Street or Highway,Treated/Examined and Released,"Contusions, Abrasions",Head,Female,White,"Contusions, Abrasions",Head,Minor,1.86,2020
+402157,200246113,2/15/2020,65+,0,0,Place of Recreation or Sports,Treated/Examined and Released,"Strain, Sprain",Knee,Female,Not Stated in ED Record,"Strain, Sprain",,Minor,1.89,2020
+620172,201111734,11/3/2020,65+,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,Black/African American,Laceration,,Minor,2.22,2020
+543281,200828166,8/11/2020,65+,0,0,Other Public Property,Treated/Examined and Released,Fracture,Lower Arm,Female,Not Stated in ED Record,Fracture,,Moderate,2.88,2020
+659771,210100019,12/26/2020,65+,0,0,Other Public Property,Treated/Examined and Released,"Contusions, Abrasions",Head,Male,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.86,2020
+474343,200600198,5/26/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Upper Trunk,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,1.0,2020
+476579,200605807,5/13/2020,65+,0,0,Other Public Property,Treated/Examined and Released,Fracture,Face,Male,White,Fracture,,Moderate,2.88,2020
+576438,200942984,9/19/2020,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2020
+570944,200929357,9/4/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,Not Stated/Unk,Male,White,Other/Not Stated,,Minor,1.5,2020
+363792,200126914,1/11/2020,65+,0,0,Other Public Property,Treated/Examined and Released,Internal Organ Injury,Head,Female,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2020
+545109,200832717,8/14/2020,65+,0,0,Home,Treated/Examined and Released,"Burns, Scald",Upper Trunk,Female,Black/African American,"Burns, Scald",,Moderate,2.65,2020
+419014,200316252,3/3/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Fracture,Upper Arm,Female,White,Fracture,,Moderate,2.88,2020
+432445,200353586,3/25/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Poisoning,All Parts Body,Male,White,Poisoning,,Moderate,3.48,2020
+437361,200415507,3/21/2020,65+,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Lower Trunk,Female,White,"Contusions, Abrasions",,Minor,1.66,2020
+559549,200914453,8/19/2020,65+,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Head,Female,White,"Contusions, Abrasions",Upper Arm,Minor,1.86,2020
+496866,200646837,6/11/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Critical,4.51,2020
+425869,200335719,3/12/2020,65+,0,1,Home,Treated/Examined and Released,"Contusions, Abrasions",Lower Leg,Female,Black/African American,"Contusions, Abrasions",,Minor,1.56,2020
+614116,201119177,10/25/2020,65+,0,0,Home,Treated/Examined and Released,Laceration,Face,Female,White,Laceration,,Minor,2.22,2020
+421499,200323390,3/1/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Male,Black/African American,Laceration,,Minor,2.22,2020
+482824,200611249,6/3/2020,65+,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Knee,Female,White,"Contusions, Abrasions",,Minor,1.56,2020
+398408,200236739,2/12/2020,65+,0,0,Home,Treated/Examined and Released,Laceration,Finger,Male,Black/African American,Laceration,Wrist,Minor,2.02,2020
+593349,201015659,10/1/2020,65+,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Eyeball,Male,Black/African American,"Contusions, Abrasions",,Minor,1.76,2020
+481576,200816640,5/7/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Dislocation,Elbow,Female,White,Dislocation,,Moderate,2.55,2020
+557676,200906044,8/2/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Aspiration,Internal,Female,White,Aspiration,,Moderate,3.28,2020
+408536,200305780,2/29/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,"Contusions, Abrasions",Neck,Male,White,"Contusions, Abrasions",,Moderate,2.76,2020
+503416,200705807,6/28/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2020
+612643,201110219,10/21/2020,65+,1,1,Not Recorded,Treated/Examined and Released,Ingestion,Internal,Male,Not Stated in ED Record,Ingestion,,Moderate,2.62,2020
+625562,201128943,11/13/2020,65+,0,0,Home,Treated/Examined and Released,Laceration,Hand,Male,White,Laceration,Upper Arm,Minor,2.22,2020
+430083,200347156,3/16/2020,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,Other,Internal Organ Injury,,Severe,3.51,2020
+634466,201151962,11/13/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Laceration,Face,Female,White,Laceration,,Minor,2.22,2020
+506626,200748334,6/28/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Female,White,Internal Organ Injury,Shoulder,Critical,4.51,2020
+632289,201146259,11/10/2020,65+,0,0,Street or Highway,Treated/Examined and Released,"Contusions, Abrasions",Face,Female,Black/African American,"Contusions, Abrasions",,Minor,1.56,2020
+475216,200602726,5/29/2020,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Severe,3.51,2020
+492196,200635892,6/17/2020,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,Other,Internal Organ Injury,,Severe,3.51,2020
+609287,201101490,10/27/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Other/Not Stated,Not Stated/Unk,Female,Black/African American,Other/Not Stated,,Minor,1.5,2020
+656449,201245218,12/13/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Lower Trunk,Male,Not Stated in ED Record,Fracture,,Severe,3.98,2020
+445170,200421751,4/13/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Upper Leg,Male,White,Fracture,,Severe,3.88,2020
+585731,201011242,9/28/2020,65+,0,0,Home,Treated/Examined and Released,Laceration,Head,Male,White,Laceration,,Moderate,2.52,2020
+622880,201121274,11/6/2020,65+,0,0,Home,Treated/Examined and Released,Laceration,Lower Arm,Male,White,Laceration,Lower Trunk,Minor,2.22,2020
+522934,200744832,7/18/2020,65+,0,1,Street or Highway,Treated/Examined and Released,Poisoning,All Parts Body,Male,White,Poisoning,All Parts Body,Minor,2.48,2020
+370698,200144734,1/15/2020,65+,0,0,Not Recorded,Treated/Examined and Released,"Contusions, Abrasions",Knee,Female,Not Stated in ED Record,"Contusions, Abrasions",,Minor,1.56,2020
+574743,200939086,9/14/2020,65+,0,0,Other Public Property,Treated/Examined and Released,Internal Organ Injury,Head,Female,Not Stated in ED Record,Internal Organ Injury,Finger,Severe,3.51,2020
+561929,200953843,8/11/2020,65+,0,1,Other Public Property,Treated/Examined and Released,Other/Not Stated,Not Stated/Unk,Male,Not Stated in ED Record,Other/Not Stated,,Minimal,0.5,2020
+482661,200609846,6/2/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Laceration,Finger,Female,Not Stated in ED Record,Laceration,Head,Minor,2.02,2020
+650514,201228499,12/10/2020,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,White,Internal Organ Injury,,Severe,3.51,2020
+468037,200530933,5/18/2020,65+,0,0,Home,Treated/Examined and Released,Laceration,Face,Male,White,Laceration,Upper Trunk,Minor,2.22,2020
+369653,200141875,1/14/2020,65+,0,0,Other Public Property,Treated/Examined and Released,Internal Organ Injury,Head,Male,Black/African American,Internal Organ Injury,,Severe,3.51,2020
+422499,200325966,3/2/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,Fracture,Lower Trunk,Female,Not Stated in ED Record,Fracture,,Severe,3.98,2020
+395058,200228140,2/12/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Face,Female,Not Stated in ED Record,Other/Not Stated,,Minimal,0.9,2020
+546108,200835205,8/18/2020,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Upper Trunk,Male,White,Internal Organ Injury,,Moderate,3.31,2020
+572229,200932721,9/13/2020,65+,0,0,Home,Treated/Examined and Released,Hematoma,Face,Female,Black/African American,Hematoma,,Minor,1.89,2020
+557868,200906349,8/26/2020,65+,0,0,Home,Treated and Admitted/Hospitalized,"Contusions, Abrasions",Knee,Female,Not Stated in ED Record,"Contusions, Abrasions",,Moderate,2.56,2020
+394099,200225018,2/11/2020,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,Lower Trunk,Severe,3.51,2020
+465392,200524463,5/10/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Lower Leg,Male,Black/African American,Other/Not Stated,,Minimal,0.9,2020
+532572,200818426,7/27/2020,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Male,White,Internal Organ Injury,,Severe,3.51,2020
+634091,201151375,11/27/2020,65+,0,0,Home,Treated/Examined and Released,Internal Organ Injury,Head,Female,Not Stated in ED Record,Internal Organ Injury,,Severe,3.51,2020
+644311,210217547,11/20/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Not Stated/Unk,Male,White,Other/Not Stated,,Minimal,0.5,2020
+444933,200421174,4/13/2020,65+,0,0,Not Recorded,Treated/Examined and Released,Other/Not Stated,Shoulder,Female,Black/African American,Other/Not Stated,,Minimal,1.0,2020
+485065,200618382,6/4/2020,65+,0,0,Home,Treated/Examined and Released,"Contusions, Abrasions",Face,Female,White,"Contusions, Abrasions",,Minor,1.56,2020
+588457,201036789,9/12/2020,65+,0,0,Not Recorded,Treated and Admitted/Hospitalized,Internal Organ Injury,Head,Male,Black/African American,Internal Organ Injury,,Critical,4.51,2020
